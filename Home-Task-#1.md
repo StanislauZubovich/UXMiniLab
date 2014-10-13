@@ -38,4 +38,4 @@ front-end-course (repository itself)
 https://docs.google.com/spreadsheet/ccc?key=0AnUA7wlxcI_-dFphZEFyUHFPZlJDS2hLbVJIc0VYREE&usp=drive_web#gid=0
 
 ## Сreate a "Bitbucket Page" about yourself
-    For more details, please check out - http://pages.bitbucket.org/
+For more details, please check out - http://pages.bitbucket.org/
