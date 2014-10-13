@@ -5,6 +5,12 @@
 
 skype:?chat&blob=lIBbz--UlrHtEYngiSQ2O_trZjMx7bZAB4US_udCYoSeA4IzL5p_khBmuNbvk6fzTJKwbO1rqeXWsvBK
 
+## Install the following software on your machine
+* http://nodejs.org/
+* http://git-scm.com/downloads
+* http://www.sublimetext.com/
+* (optional) https://www.jetbrains.com/webstorm/
+
 ## Learn Git basics
 * https://www.codeschool.com/courses/try-git
 * https://www.codeschool.com/courses/git-real (at least first level)
@@ -28,8 +34,3 @@ front-end-course (repository itself)
         ...
 ```
 
-## Install the following software on your machine
-* http://nodejs.org/
-* http://git-scm.com/downloads
-* http://www.sublimetext.com/
-* (optional) https://www.jetbrains.com/webstorm/
