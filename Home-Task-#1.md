@@ -3,9 +3,8 @@
 2. Open Internet Explorer
 3. Copy-paste the following link:
 
-```
 skype:?chat&blob=lIBbz--UlrHtEYngiSQ2O_trZjMx7bZAB4US_udCYoSeA4IzL5p_khBmuNbvk6fzTJKwbO1rqeXWsvBK
-```
+
 ## Create a Bitbucket account and a git repository
 1. Create a Bitbucket account. __Username must be - FirstName_LastName__
 2. Create a Git repository
