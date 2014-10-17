@@ -1,4 +1,4 @@
-##Task 3 - Flexbox
+##Task 2 - Flexbox
 
 Deadline: 21.10.2014
 
