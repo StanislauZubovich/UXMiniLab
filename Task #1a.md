@@ -28,7 +28,7 @@ skype:?chat&blob=lIBbz--UlrHtEYngiSQ2O_trZjMx7bZAB4US_udCYoSeA4IzL5p_khBmuNbvk6f
 Your repository should has following structure:
 ```
 front-end-course (repository itself)
-        task1
+        task1a
         task1b
         task2
         ...
