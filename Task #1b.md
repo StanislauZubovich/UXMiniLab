@@ -3,7 +3,7 @@
 __Deadline__: 19.10.2014
 
 ###Требования:
-1. верстка в соответствии с [макетом]( http://rolling-scopes.github.io/front-end-course/tasks/task2.png)
+1. верстка в соответствии с [макетом](http://rolling-scopes.github.io/front-end-course/tasks/task1b.png)
 2. использование семантической верстки
 3. адекватные ховер стили
 4. страничка открывается в последней версии хрома
