@@ -43,4 +43,4 @@ For more details, please check out - http://pages.bitbucket.org/
 ## Implement the "Holy Grail" three-column web page layout
   http://en.wikipedia.org/wiki/Holy_Grail_(web_design)
   Your html page should contain header, content section (three-column), footer (see image below) 
-  http://rolling-scopes.github.io/front-end-course/tasks/task1.jpg
+  http://rolling-scopes.github.io/front-end-course/tasks/task1a.jpg
