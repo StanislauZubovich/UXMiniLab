@@ -10,7 +10,7 @@ Week #1
 Week #2
 #4 HTML Layout. Flexbox.
 #5 Responsive Web Design
-#6 Sublime Text
+#6 Sublime Text. ???
 #6.1 (Optional) – HTML/CSS Q&A session
  
 Week #3
