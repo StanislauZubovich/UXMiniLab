@@ -1,6 +1,6 @@
 ##Task 2 - Flexbox
 
-Deadline: 21.10.2014
+Deadline: 26.10.2014
 
 Требования:
 
