@@ -6,12 +6,12 @@ Week #1
 #1 Course Overview. Git basics. HTML and CSS basics
 #2 HTML and CSS basics
 #3 HTML Layout
-#2.1 (Optional) – HTML/CSS Q&A session
  
 Week #2
-#4 HTML Layout
+#4 HTML Layout. Flexbox.
 #5 Responsive Web Design
-#6 Responsive Web Design. Sublime Text
+#6 Sublime Text
+#6.1 (Optional) – HTML/CSS Q&A session
  
 Week #3
 #7 JavaScript Overview. Data Types. Objects
