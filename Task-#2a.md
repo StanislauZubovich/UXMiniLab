@@ -1,6 +1,6 @@
 ##Task 2a - RWD (Responsive Web Design)
 
-Deadline: 22.10.2014
+Deadline: 26.10.2014
 
 Требования:
 
