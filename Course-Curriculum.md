@@ -11,7 +11,7 @@ Week #2
 #4 HTML Layout. Flexbox.
 #5 Responsive Web Design
 #6 Sublime Text. ???
-#6.1 (Optional) – HTML/CSS Q&A session
+#7 CSS Cookbook; HTML/CSS Q&A session; 
  
 Week #3
 #7 JavaScript Overview. Data Types. Objects
