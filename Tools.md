@@ -5,6 +5,8 @@
 [Sublime Text Tips Twitter](https://twitter.com/SublimeTxtTips)
 
 ### Packages
+* [EditorConfig](http://editorconfig.org/)
+* Emmet
 * Git (inegration)
 * Git Gutter
 * Sublimall
