@@ -11,4 +11,7 @@ Implement data structure "doubly linked list". It should be done as a stand-alon
 * indexOF(param: item; return index of the specified item (first entry))
 
 Some of the list's methods should be chainable.
-e.g. ```javascript list.append(item1).append(item2).append(item3).deleteAt(2).reverse().at(0) ```
+e.g. 
+```javascript 
+list.append(item1).append(item2).append(item3).deleteAt(2).reverse().at(0)
+```
