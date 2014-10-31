@@ -1,4 +1,4 @@
-### # Doubly Linked List
+### Doubly Linked List
 Implement data structure "doubly linked list". It should be done as a stand-alone, independent component, which can be used wherever needed. D.L.L. should have the following methods (you can add your own methods, but the 9 listed below must be and named exactly as stated):
 * head (returns head of the list)
 * tail (returns tail of the list)
@@ -11,4 +11,4 @@ Implement data structure "doubly linked list". It should be done as a stand-alon
 * indexOF(param: item; return index of the specified item (first entry))
 
 Some of the list's methods should be chainable.
-e.g. ```js list.append(item1).append(item2).append(item3).deleteAt(2).reverse().at(0)
+e.g. ```javascript list.append(item1).append(item2).append(item3).deleteAt(2).reverse().at(0) ```
