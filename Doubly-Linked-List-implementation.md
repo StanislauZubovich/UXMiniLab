@@ -12,6 +12,7 @@ Implement data structure "doubly linked list". It should be done as a stand-alon
 
 Some of the list's methods should be chainable.
 
-e.g. ```javascript 
+e.g. 
+```javascript 
 lst.append(item1).append(item2).append(item3).deleteAt(2).reverse().at(0)
 ```
