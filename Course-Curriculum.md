@@ -9,13 +9,12 @@ University Promo Lecture (BSU, BSUIR)
 #5 Responsive Web Design
 #6 Sublime Text. Web Typography. UX  
 #7 CSS Cookbook; HTML/CSS Q&A session; 
- 
-Week #3
 #7 JavaScript Overview. Data Types. Objects
-#8 JavaScript Basics. Variables. Scope. Chrome Dev Tools
+#8 JavaScript Basics. Variables. Scope.
 #9 Data Structures. Workshop - Linked List implementation.
-#6.1 (Optional) – Web typography
- 
+
+?? Chrome Dev Tools 
+
 Week #4
 #10 Scope, Functions, this keyword, apply/call, Chrome Dev Tools
 #11 Object.*, arguments, Arrays
