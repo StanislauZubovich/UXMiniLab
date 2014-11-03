@@ -8,3 +8,6 @@
 4. Device Agnostic Development
   *  https://developers.google.com/events/io/sessions/325310259
   *  http://device-agnostic-development.appspot.com/
+5. Automating Front-end Workflow by Addy Osmani
+  *  https://speakerdeck.com/addyosmani/automating-front-end-workflow
+  
