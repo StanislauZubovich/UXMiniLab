@@ -1,0 +1,10 @@
+##Useful links
+
+1. JSCore - http://dmitrysoshnikov.com/ecmascript/ru-javascript-the-core/
+2. How the V8 engine works?
+  *  https://www.youtube.com/watch?v=VhpdsjBUS3g
+  *  http://www.youtube.com/watch?v=UJPdhx5zTaw
+3. http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+4. Device Agnostic Development
+  *  https://developers.google.com/events/io/sessions/325310259
+  *  http://device-agnostic-development.appspot.com/
