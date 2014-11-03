@@ -21,8 +21,8 @@
 7. Анимация на базе возможностей CSS3 (использование свойств: -webkit-transition: -webkit-transform " + time + "ms cubic-bezier(0,0,0.25,1); -webkit-transform: translate3d(" + shift + "px, 0px, 0px))
 8. Минимальная ширина одного компонента 300px; (можно другую)
 9. Каждый компонент, представляет информацию об одном YouTube ролике. Минимальная информация: заголовок (он же кликабельный линк на YouTube), превьюшка, описание, автор, дата публикации, количество просмотров. Данную информацию из респонса можно получить с помощью следующей функции:
-```javascript
-function convertYouTubeResponseToClipList(rawYouTubeData) {
+    ```javascript
+     function convertYouTubeResponseToClipList(rawYouTubeData) {
                 var clipList = [];
                 var entries = rawYouTubeData.feed.entry;
                 if (entries) {
@@ -45,7 +45,7 @@ function convertYouTubeResponseToClipList(rawYouTubeData) {
                 }
                 return clipList;
             }
-```
+    ```
 10. Данные с YouTube получаться с помощью JSONP запроса (например: http://gdata.youtube.com/feeds/api/videos/?callback=myJsonPCallback&v=2&alt=json&max-results=15&start-index=1&q=javascript )
 11. Ролики (компоненты) листаются только страницами
 12. Если при ресейзе окна количество компонентов уменьшилось/увеличилось, крайний левый компонент из предыдущего состоянию должен быть представлен в новом состоянии (но не обязательно в крайней левой позиции). При дальнейшем ресайзе будет учитываться компонент который  в новом состоянии находиться в крайней левой позиции.
