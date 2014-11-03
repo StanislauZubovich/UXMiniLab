@@ -9,24 +9,24 @@ University Promo Lecture (BSU, BSUIR)
 #5 Responsive Web Design
 #6 Sublime Text. Web Typography. UX  
 #7 CSS Cookbook; HTML/CSS Q&A session; 
-#7 JavaScript Overview. Data Types. Objects
-#8 JavaScript Basics. Variables. Scope.
-#9 Data Structures. Workshop - Linked List implementation.
+#8 JavaScript Overview. Data Types. Objects
+#9 JavaScript Basics. Variables. Scope. arguments. this. 
+#10 Data Structures. Workshop - Linked List implementation.
+#11 Object.*, Array.prototype.*, Strict mode.
+#12 Functions, this keyword, apply/call, Cloruses.
+#13 Inheritance
+
+#14 DOM Basics, DOM Event Handling
+#15 DOM. jQuery. Practical Task
+#16 CSS3 Animation. Transitions. requestAnimationFrame. Practical task
+#17 Project structure and asset management. (Grunt, Node.js, NPM, Bower)
+#18 Design Patterns. Iterator implementation
 
 ?? Chrome Dev Tools 
 
 Week #4
-#10 Scope, Functions, this keyword, apply/call, Chrome Dev Tools
-#11 Object.*, arguments, Arrays
-#12 Closures. Inheritance
- 
-Week #5
-#13 Design Patterns. Iterator implementation
-#14 DOM Basics, DOM Event Handling
-#15 DOM. jQuery. Practical Task
- 
-Week #6
-#16 CSS3 Animation. Transitions. requestAnimationFrame. Practical task
+ Chrome Dev Tools
+
 #17 Network Basics. HTTP
 #18 Ajax. Promise Pattern. Practical task
  
@@ -36,7 +36,7 @@ Week #7
 #21 Brush up (Closures, Inheritance, Custom JQuery Realization)
  
 Week #8
-#22 Project structure and asset management
+
 #23 Testing JavaScript Applications
 #24 Testing JavaScript Applications
 #24.1 (Optional) – CSS preprocessors. Stylus.
