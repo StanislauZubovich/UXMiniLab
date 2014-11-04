@@ -17,7 +17,11 @@
 3. Использование jquery и других фреймворков не допускается.
 4. JS и CSS код должны быть в отдельных файлах. Код страницы в файле index.html
 5. Использование глобальных переменных и функций должно быть минимальным.
-6. Пример UI в папке - ui sample
+6. Пример UI:
+  *  [sample 1](http://rolling-scopes.github.io/front-end-course/tasks/task6/sample1.png)
+  *  [sample 2](http://rolling-scopes.github.io/front-end-course/tasks/task6/sample2.png)
+  *  [sample 3](http://rolling-scopes.github.io/front-end-course/tasks/task6/sample3.png)
+  *  [sample 4](http://rolling-scopes.github.io/front-end-course/tasks/task6/sample4.png)
 7. Анимация на базе возможностей CSS3 (использование свойств: -webkit-transition: -webkit-transform " + time + "ms cubic-bezier(0,0,0.25,1); -webkit-transform: translate3d(" + shift + "px, 0px, 0px))
 8. Минимальная ширина одного компонента 300px; (можно другую)
 9. Каждый компонент, представляет информацию об одном YouTube ролике. Минимальная информация: заголовок (он же кликабельный линк на YouTube), превьюшка, описание, автор, дата публикации, количество просмотров. Данную информацию из респонса можно получить с помощью следующей функции:
