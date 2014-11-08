@@ -12,4 +12,6 @@
   *  https://speakerdeck.com/addyosmani/automating-front-end-workflow
 6. Memory Management Masterclass with Addy Osmani
   *  https://www.youtube.com/watch?v=LaxbdIyBkL0
-  
+7. Git
+  *  http://haacked.com/archive/2014/07/28/github-flow-aliases/
+  *  https://medium.com/code-adventures/git-conventions-a940ee20862d
