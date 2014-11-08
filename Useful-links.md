@@ -10,4 +10,6 @@
   *  http://device-agnostic-development.appspot.com/
 5. Automating Front-end Workflow by Addy Osmani
   *  https://speakerdeck.com/addyosmani/automating-front-end-workflow
+6. Memory Management Masterclass with Addy Osmani
+  *  https://www.youtube.com/watch?v=LaxbdIyBkL0
   
