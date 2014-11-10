@@ -1,5 +1,7 @@
-## Youtube viewer
+## Chrome Dev Tools
+Пройти бесплатный курс  - http://discover-devtools.codeschool.com/
 
+## Youtube viewer
 ###Задача: 
 Необходимо создать web-приложение, которое позволяет загружать и просматривать информацию о youtube роликах на основании запроса пользователя.
 Данные с YouTube REST API получаться с помощью JSONP запроса.
