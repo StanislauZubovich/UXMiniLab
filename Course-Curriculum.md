@@ -14,40 +14,41 @@ University Promo Lecture (BSU, BSUIR)
 #10 Data Structures. Workshop - Linked List implementation.
 #11 Object.*, Array.prototype.*, Strict mode.
 #12 Functions, this keyword, apply/call, Cloruses.
-#13 Inheritance
+#13 Inheritance, Array.prototype.*, Practical task (function make)
 
-#14 DOM Basics, DOM Event Handling
-#15 DOM. jQuery. Practical Task
-#16 CSS3 Animation. Transitions. requestAnimationFrame. Practical task
-#17 Project structure and asset management. (Grunt, Node.js, NPM, Bower)
-#18 Design Patterns. Iterator implementation
+#14 DOM Basics
+#15 DOM Event Handling
+#16 DOM. jQuery. Practical Task
+#17 CSS3 Animation. Transitions. requestAnimationFrame. Practical task
+#18 Project structure and asset management. (Grunt, Node.js, NPM, Bower)
+#19 Design Patterns. Iterator implementation
 
 ?? Chrome Dev Tools 
 
 Week #4
  Chrome Dev Tools
 
-#17 Network Basics. HTTP
-#18 Ajax. Promise Pattern. Practical task
+#20 Network Basics. HTTP
+#21 Ajax. Promise Pattern. Practical task
  
 Week #7
-#19 Performance, Paint and Compositing, How browser works
-#20 WebSocket Challenge
-#21 Brush up (Closures, Inheritance, Custom JQuery Realization)
+#22 Performance, Paint and Compositing, How browser works
+#23 WebSocket Challenge
+#24 Brush up (Closures, Inheritance, Custom JQuery Realization)
  
 Week #8
 
-#23 Testing JavaScript Applications
-#24 Testing JavaScript Applications
-#24.1 (Optional) – CSS preprocessors. Stylus.
+#25 Testing JavaScript Applications
+#26 Testing JavaScript Applications
+#27.1 (Optional) – CSS preprocessors. Stylus.
 
 Week #9
-#25 Implementation of common JavaScript patterns (Mixin, Bind, Extend, Proxy, Throttling, Debounce)
-#26 Tree Visualization
-#27 Application Architecture
+#28 Implementation of common JavaScript patterns (Mixin, Bind, Extend, Proxy, Throttling, Debounce)
+#29 Tree Visualization
+#30 Application Architecture
  
 Week #10
-#28 Yeoman. AngularJS Basics
-#29 AngularJS. Directices
-#30 AngularJS. Modules, services, injector
-#31 (Optional) Node.js
+#31 Yeoman. AngularJS Basics
+#32 AngularJS. Directices
+#33 AngularJS. Modules, services, injector
+#34 (Optional) Node.js
