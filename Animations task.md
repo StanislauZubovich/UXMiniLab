@@ -1,6 +1,6 @@
 # Animations task
 
-Сделать "генератор" тостов ([пример](http://s.codepen.io/boomerang/3eb788afbed484f4d511fc311219ec4c1416422926007/index.html))
+Сделать "генератор" тостов ([пример](http://codepen.io/wontem/full/QwwKqy/))
 
 * добавлять тосты по клику на кнопку
 * каждый тост через определенное время скрывать
