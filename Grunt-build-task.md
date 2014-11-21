@@ -2,7 +2,7 @@
 
 [Download](http://rolling-scopes.github.io/front-end-course/tasks/grunt-build-task.zip) app
 
-Missing dependencies:
+Install missing frontend dependencies with `bower`
 
 * backbone (v. 1.1.1)
 * underscore (v. 1.6.0)
@@ -13,9 +13,11 @@ Missing dependencies:
 Required styles: `todomvc-common/base.css`
 
 Required Grunt tasks:
-* jshint
-* uglify
-* cssmin
+* grunt-contrib-jshint
+* grunt-contrib-uglify
+* grunt-contrib-cssmin
+
+Default grunt task should run all this tasks
 
 Optional:
 * usemin
