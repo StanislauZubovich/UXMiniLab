@@ -15,7 +15,6 @@ University Promo Lecture (BSU, BSUIR)
 #11 Object.*, Array.prototype.*, Strict mode.
 #12 Functions, this keyword, apply/call, Cloruses.
 #13 Inheritance, Array.prototype.*, Practical task (function make)
-
 #14 DOM Basics
 #15 DOM Event Handling
 #16 DOM. jQuery. Practical Task
@@ -23,10 +22,8 @@ University Promo Lecture (BSU, BSUIR)
 #18 Project structure and asset management. (Grunt, Node.js, NPM, Bower)
 #19 Design Patterns. Iterator implementation
 
-?? Chrome Dev Tools 
 
-Week #4
- Chrome Dev Tools
+??? Chrome Dev Tools
 
 #20 Network Basics. HTTP
 #21 Ajax. Promise Pattern. Practical task
