@@ -1,5 +1,7 @@
 # Build ToDoApp with Grunt
 
+[Download](http://rolling-scopes.github.io/front-end-course/tasks/grunt-build-task.zip) app
+
 Missing dependencies:
 
 * backbone (v. 1.1.1)
