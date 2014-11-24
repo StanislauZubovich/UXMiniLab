@@ -15,3 +15,5 @@
 7. Git
   *  http://haacked.com/archive/2014/07/28/github-flow-aliases/
   *  https://medium.com/code-adventures/git-conventions-a940ee20862d
+8. Speaking JavaScript 
+  *  http://speakingjs.com/es5/index.html
