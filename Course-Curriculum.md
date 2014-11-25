@@ -21,20 +21,14 @@ University Promo Lecture (BSU, BSUIR)
 #17 CSS3 Animation. Transitions. requestAnimationFrame. Practical task
 #18 Project structure and asset management. (Grunt, Node.js, NPM, Bower)
 #19 Design Patterns. Iterator implementation
-
+#20 Network Basics. HTTP
+#21 Ajax. Promise Pattern. Practical task
+#22 WebSocket Challenge
 
 ??? Chrome Dev Tools
 
-#20 Network Basics. HTTP
-#21 Ajax. Promise Pattern. Practical task
- 
-Week #7
-#22 Performance, Paint and Compositing, How browser works
-#23 WebSocket Challenge
+#23 Performance, Paint and Compositing, How browser works
 #24 Brush up (Closures, Inheritance, Custom JQuery Realization)
- 
-Week #8
-
 #25 Testing JavaScript Applications
 #26 Testing JavaScript Applications
 #27.1 (Optional) – CSS preprocessors. Stylus.
