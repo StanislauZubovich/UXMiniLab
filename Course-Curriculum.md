@@ -25,7 +25,7 @@ University Promo Lecture (BSU, BSUIR)
 #21 Ajax. Promise Pattern. Practical task
 #22 WebSocket Challenge
 
-??? Chrome Dev Tools
+
 
 #23 Performance, Paint and Compositing, How browser works
 #24 Brush up (Closures, Inheritance, Custom JQuery Realization)
@@ -43,3 +43,5 @@ Week #10
 #32 AngularJS. Directices
 #33 AngularJS. Modules, services, injector
 #34 (Optional) Node.js
+
+??? Chrome Dev Tools
