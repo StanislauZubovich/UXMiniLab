@@ -31,8 +31,7 @@ University Promo Lecture (BSU, BSUIR)
 Design Patterns ???
 
 Week #9
-#24 Brush up (Closures, Inheritance, Custom JQuery Realization)
-#27.1 (Optional) – CSS preprocessors. Stylus.
+#27 CSS preprocessors. Stylus. Brush up (Closures, Inheritance, Custom JQuery Realization)
 #28 Implementation of common JavaScript patterns (Mixin, Bind, Extend, Proxy, Throttling, Debounce)
 #29 Tree Visualization
 #30 Application Architecture
