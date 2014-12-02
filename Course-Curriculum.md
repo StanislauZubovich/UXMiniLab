@@ -29,8 +29,6 @@ University Promo Lecture (BSU, BSUIR)
 #25 Testing JavaScript Applications
 #26 CSS preprocessors. Stylus. Brush up (Closures, Inheritance, Custom JQuery Realization)
 
-
-
 #28 Implementation of common JavaScript patterns (Mixin, Bind, Extend, Proxy, Throttling, Debounce)
 #29 Tree Visualization
 #30 Application Architecture
