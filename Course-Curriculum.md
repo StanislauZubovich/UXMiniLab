@@ -27,19 +27,20 @@ University Promo Lecture (BSU, BSUIR)
 #23 Network. Performance, Paint and Compositing, How browser works
 #24 Testing JavaScript Applications
 #25 Testing JavaScript Applications
+#26 CSS preprocessors. Stylus. Brush up (Closures, Inheritance, Custom JQuery Realization)
 
-Design Patterns ???
 
-Week #9
-#27 CSS preprocessors. Stylus. Brush up (Closures, Inheritance, Custom JQuery Realization)
+
 #28 Implementation of common JavaScript patterns (Mixin, Bind, Extend, Proxy, Throttling, Debounce)
 #29 Tree Visualization
 #30 Application Architecture
- 
+
+??? Chrome Dev Tools ???
+??? Design Patterns ???
+
 Week #10
 #31 Yeoman. AngularJS Basics
 #32 AngularJS. Directices
 #33 AngularJS. Modules, services, injector
 #34 (Optional) Node.js
 
-??? Chrome Dev Tools
