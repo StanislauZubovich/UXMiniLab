@@ -25,9 +25,10 @@ University Promo Lecture (BSU, BSUIR)
 #21 Ajax. Promise Pattern. Practical task
 #22 WebSocket Challenge
 #23 Network. Performance, Paint and Compositing, How browser works
-#24 Testing JavaScript Applications
+#24 CSS preprocessors. Stylus. Brush up (Closures, Inheritance, Custom JQuery Realization)
 #25 Testing JavaScript Applications
-#26 CSS preprocessors. Stylus. Brush up (Closures, Inheritance, Custom JQuery Realization)
+#26 Testing JavaScript Applications
+
 
 #28 Implementation of common JavaScript patterns (Mixin, Bind, Extend, Proxy, Throttling, Debounce)
 #29 Tree Visualization
