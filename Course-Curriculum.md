@@ -28,18 +28,20 @@ University Promo Lecture (BSU, BSUIR)
 #24 CSS preprocessors. Stylus. Brush up (Closures, Inheritance, Custom JQuery Realization)
 #25 Testing JavaScript Applications
 #26 Testing JavaScript Applications
+#27 Yeoman. AngularJS Basics
+#28 AngularJS. IoC
+#29 AngularJS. Directives
+#30 AngularJS. Tests
+#31 AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource)
+#32 Brush-up
+#3X (Optional) Node.js
 
+Online via Codeschool:
+*  https://www.codeschool.com/courses/try-git
+*  https://www.codeschool.com/courses/discover-devtools
+*  https://www.codeschool.com/courses/shaping-up-with-angular-js
 
-#28 Implementation of common JavaScript patterns (Mixin, Bind, Extend, Proxy, Throttling, Debounce)
-#29 Tree Visualization
-#30 Application Architecture
-
-??? Chrome Dev Tools ???
+??? Implementation of common JavaScript patterns (Mixin, Bind, Extend, Proxy, Throttling, Debounce)
+??? Tree Visualization
+??? Application Architecture
 ??? Design Patterns ???
-
-Week #10
-#31 Yeoman. AngularJS Basics
-#32 AngularJS. Directices
-#33 AngularJS. Modules, services, injector
-#34 (Optional) Node.js
-
