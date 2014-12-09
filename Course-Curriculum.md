@@ -37,9 +37,9 @@ University Promo Lecture (BSU, BSUIR)
 #3X (Optional) Node.js
 
 Online via Codeschool:
-  *https://www.codeschool.com/courses/try-git
-  *https://www.codeschool.com/courses/discover-devtools
-  *https://www.codeschool.com/courses/shaping-up-with-angular-js
+1) https://www.codeschool.com/courses/try-git
+2) https://www.codeschool.com/courses/discover-devtools
+3) https://www.codeschool.com/courses/shaping-up-with-angular-js
 
 ??? Implementation of common JavaScript patterns (Mixin, Bind, Extend, Proxy, Throttling, Debounce)
 ??? Tree Visualization
