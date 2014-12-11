@@ -13,3 +13,6 @@ Custom JQuery
 
 Доп. условия:
 * chaining
+
+---
+DEADLINE 17.12.2014
