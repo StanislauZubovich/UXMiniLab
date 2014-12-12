@@ -1,4 +1,4 @@
-## Plan
+## Lecture #1 Plan
 
 1. SPA: definition, why and how – 10 min.
 2. Rich- vs thin- client – 10 min.
@@ -10,3 +10,6 @@
 
 ## Images
 http://lekcije.smiko.info/javascript/angularjs/uvod.html
+
+## Codeschool free course
+https://www.codeschool.com/courses/shaping-up-with-angular-js
