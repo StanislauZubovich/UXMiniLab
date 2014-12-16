@@ -13,6 +13,7 @@ http://lekcije.smiko.info/javascript/angularjs/uvod.html
 
 ## Homework (deadline 22-12-2014 12-00):
 Practice 1-5:
+
 1. http://goo.gl/grrTPW
 2. http://goo.gl/CoqXPy
 3. http://goo.gl/75hgJq
@@ -20,8 +21,9 @@ Practice 1-5:
 5. http://goo.gl/nriURP
 
 Materials:
-AngularJS basics: https://www.dropbox.com/s/jwz8muklazz520x/AngularJS%20basics.pptx?dl=0
-repositories.json: https://www.dropbox.com/s/9032a815aw2ec4m/repositories.json?dl=0
+
+* AngularJS basics: https://www.dropbox.com/s/jwz8muklazz520x/AngularJS%20basics.pptx?dl=0
+* repositories.json: https://www.dropbox.com/s/9032a815aw2ec4m/repositories.json?dl=0
 
 ## Codeschool free course
 https://www.codeschool.com/courses/shaping-up-with-angular-js
