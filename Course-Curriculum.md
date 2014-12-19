@@ -24,7 +24,7 @@ University Promo Lecture (BSU, BSUIR)
 #20 Network Basics. HTTP
 #21 Ajax. Promise Pattern. Practical task
 #22 WebSocket Challenge
-#23 Network. Performance, Paint and Compositing, How browser works
+#23 Network. Performance, Paint and Compositing
 #24 CSS preprocessors. Stylus. Brush up (Closures, Inheritance, Custom JQuery Realization)
 #25 Testing JavaScript Applications
 #26 Testing JavaScript Applications
@@ -45,3 +45,4 @@ Online via Codeschool:
 ??? Tree Visualization
 ??? Application Architecture
 ??? Design Patterns ???
+??? How browser works ???
