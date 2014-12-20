@@ -26,7 +26,8 @@ Send only last step!
 2. Implement endless scrolling directive with default scope to show repositories from practice 1:
     * One response from Github should return 10 results.
     * When user reaches the end of the screen - next 10 results should be loaded (added to current array).
-        ** Tips:
+
+        Tips:
             * To save reference on existing array - use:
             Array.prototype.push.apply(results, newResults); // why? what is apply?
             * Subscribe on window scroll event
@@ -41,10 +42,10 @@ Send only last step!
             size: "=",
             perPage: "="
         }
-
     * Move method send() from controller to directive.
     * Call method send using angular events. See https://docs.angularjs.org/api/ng/type/$rootScope.Scope
-        ** Tips:
+
+        Tips:
             * Fire event from controller by: $rootScope.$broadcast('yourEventName'); // why $rootScope?
             * Subscribe on this event in directive
 4. Back button still should work!!
