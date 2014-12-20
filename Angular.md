@@ -11,16 +11,44 @@
 ## Images
 http://lekcije.smiko.info/javascript/angularjs/uvod.html
 
-## Homework (deadline 22-12-2014 12-00):
-Practice 1-5:
+## Homework (deadline 22-12-2014 12-00) send to andrei_yemialyanchik@epam.com:
+Practice 1 (5 steps):
 
 1. http://goo.gl/grrTPW
 2. http://goo.gl/CoqXPy
 3. http://goo.gl/75hgJq
 4. http://goo.gl/yOC4Vx
 5. http://goo.gl/nriURP
+Send only last step!
+
+## Practice 2: (deadline 24-12-2014) verification tasks on the lecture or send to andrei_yemialyanchik@epam.com:
+1. Add pagination parameters into Github $resourse search. See https://developer.github.com/v3/#pagination
+2. Implement endless scrolling directive with default scope to show repositories from practice 1:
+    a. One response from Github should return 10 results.
+    b. When user reaches the end of the screen - next 10 results should be loaded (added to current array). 
+        Tips: 
+            - To save reference on existing array - use:
+            Array.prototype.push.apply(results, newResults); // why? what is apply?
+            - subscribe on window scroll event
+    c. Sort results by server order (just remove filters from ngRepeat)
+3. Create custom template for directive with isolated scope (template should contain  ngRepeat). 
+    a. Pass following parameters over two-way binding property '=':
+        scope: {
+            search: "=",
+            forks: "=",
+            stars: "=",
+            size: "=",
+            perPage: "="
+        }
+    b. Move method send() from controller to directive.
+    c. Call method send using angular events. See https://docs.angularjs.org/api/ng/type/$rootScope.Scope
+        Tips:
+            - Fire event from controller by: $rootScope.$broadcast('yourEventName'); // why $rootScope?
+            - Subscribe on this event in directive
+4. Back button still should work!!
 
 Materials:
+* Egghead: https://egghead.io/technologies/angularjs
 
 * AngularJS basics: https://www.dropbox.com/s/jwz8muklazz520x/AngularJS%20basics.pptx?dl=0
 * repositories.json: https://www.dropbox.com/s/9032a815aw2ec4m/repositories.json?dl=0
