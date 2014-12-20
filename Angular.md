@@ -11,8 +11,7 @@
 ## Images
 http://lekcije.smiko.info/javascript/angularjs/uvod.html
 
-## Homework (deadline 22-12-2014 12-00) send to andrei_yemialyanchik@epam.com:
-Practice 1 (5 steps):
+## Practice 1 (5 steps) deadline 22-12-2014 12-00 send to andrei_yemialyanchik@epam.com:
 
 1. http://goo.gl/grrTPW
 2. http://goo.gl/CoqXPy
