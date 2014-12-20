@@ -24,15 +24,16 @@ Send only last step!
 ## Practice 2: (deadline 24-12-2014) verification tasks on the lecture or send to andrei_yemialyanchik@epam.com:
 1. Add pagination parameters into Github $resourse search. See https://developer.github.com/v3/#pagination
 2. Implement endless scrolling directive with default scope to show repositories from practice 1:
-    a. One response from Github should return 10 results.
-    b. When user reaches the end of the screen - next 10 results should be loaded (added to current array). 
+    * One response from Github should return 10 results.
+    * When user reaches the end of the screen - next 10 results should be loaded (added to current array).
         Tips: 
-            - To save reference on existing array - use:
+            * To save reference on existing array - use:
             Array.prototype.push.apply(results, newResults); // why? what is apply?
-            - subscribe on window scroll event
-    c. Sort results by server order (just remove filters from ngRepeat)
-3. Create custom template for directive with isolated scope (template should contain  ngRepeat). 
-    a. Pass following parameters over two-way binding property '=':
+            * subscribe on window scroll event
+    * Sort results by server order (just remove filters from ngRepeat)
+3. Create custom template for directive with isolated scope (template should contain  ngRepeat).
+    * Pass following parameters over two-way binding property '=':
+
         scope: {
             search: "=",
             forks: "=",
@@ -40,11 +41,12 @@ Send only last step!
             size: "=",
             perPage: "="
         }
-    b. Move method send() from controller to directive.
-    c. Call method send using angular events. See https://docs.angularjs.org/api/ng/type/$rootScope.Scope
+
+    * Move method send() from controller to directive.
+    * Call method send using angular events. See https://docs.angularjs.org/api/ng/type/$rootScope.Scope
         Tips:
-            - Fire event from controller by: $rootScope.$broadcast('yourEventName'); // why $rootScope?
-            - Subscribe on this event in directive
+            * Fire event from controller by: $rootScope.$broadcast('yourEventName'); // why $rootScope?
+            * Subscribe on this event in directive
 4. Back button still should work!!
 
 Materials:
