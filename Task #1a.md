@@ -16,6 +16,7 @@ skype:?chat&blob=lIBbz--UlrHtEYngiSQ2O_trZjMx7bZAB4US_udCYoSeA4IzL5p_khBmuNbvk6f
 * https://www.codeschool.com/courses/git-real (at least first level)
 * (optional) http://git-scm.com/book
 * (optional) https://www.udacity.com/course/ud775
+* .gitignore best practices
 
 ## Create a Bitbucket account and a git repository
 1. Create a Bitbucket account. __Username must be - FirstName_LastName__
