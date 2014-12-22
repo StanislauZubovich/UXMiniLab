@@ -31,8 +31,8 @@ University Promo Lecture (BSU, BSUIR)
 #27 Yeoman. AngularJS Basics
 #28 AngularJS. IoC
 #29 AngularJS. Directives
-#30 AngularJS. Tests
-#31 AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource)
+#30 AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource)
+#31 AngularJS. Tests
 #32 Brush-up
 #3X (Optional) Node.js
 
