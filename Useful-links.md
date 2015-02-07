@@ -17,3 +17,5 @@
   *  https://medium.com/code-adventures/git-conventions-a940ee20862d
 8. Speaking JavaScript 
   *  http://speakingjs.com/es5/index.html
+
+## [Essential JavaScript Links - gist](https://gist.github.com/ericelliott/d576f72441fc1b27dace)
