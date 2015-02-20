@@ -34,7 +34,8 @@ University Promo Lecture (BSU, BSUIR)
 #30 AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource)
 #31 AngularJS. Tests
 #32 Brush-up
-#3X (Optional) Node.js
+#33 Node.js
+#34 Node.js
 
 Online via Codeschool:
 1) https://www.codeschool.com/courses/try-git
@@ -42,7 +43,6 @@ Online via Codeschool:
 3) https://www.codeschool.com/courses/shaping-up-with-angular-js
 
 ??? Implementation of common JavaScript patterns (Mixin, Bind, Extend, Proxy, Throttling, Debounce)
-??? Tree Visualization
 ??? Application Architecture
 ??? Design Patterns ???
 ??? How browser works ???
