@@ -34,15 +34,11 @@ skype:?chat&blob=Zd_eInTRYsRxnM_N9Kxn7J75dEpcSK-nDMHV69saolq4MzBGDt9CgzOGq3b4SVd
         task2
         ...
    ```
-
-4. create "Bitbacket Page" about yourself
-   http://pages.bitbucket.org/
+## Сreate a "Bitbucket Page" about yourself
+For more details, please check out - http://pages.bitbucket.org/
 
 ## Fill "Score" form
 https://docs.google.com/spreadsheet/ccc?key=0AnUA7wlxcI_-dFphZEFyUHFPZlJDS2hLbVJIc0VYREE&usp=drive_web#gid=0
-
-## Сreate a "Bitbucket Page" about yourself
-For more details, please check out - http://pages.bitbucket.org/
 
 ## Implement the "Holy Grail" three-column web page layout
   http://en.wikipedia.org/wiki/Holy_Grail_(web_design)
