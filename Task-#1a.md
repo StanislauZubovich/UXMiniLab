@@ -34,7 +34,7 @@ skype:?chat&blob=Zd_eInTRYsRxnM_N9Kxn7J75dEpcSK-nDMHV69saolq4MzBGDt9CgzOGq3b4SVd
         task2
         ...
    ```
-## Сreate a "Bitbucket Page" about yourself
+### Сreate a "Bitbucket Page" about yourself
 For more details, please check out - http://pages.bitbucket.org/
 
 ## Fill "Score" form
