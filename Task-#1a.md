@@ -26,7 +26,7 @@ skype:?chat&blob=Zd_eInTRYsRxnM_N9Kxn7J75dEpcSK-nDMHV69saolq4MzBGDt9CgzOGq3b4SVd
 3. Invite us 
   "invite your friends" -> "Send an invitation" -> type "rolling_scopes" -> press "Share" button
 
-Your repository should has following structure:
+**Your repository should has following structure**:
 ```
 front-end-course (repository itself)
         task1a
@@ -34,6 +34,9 @@ front-end-course (repository itself)
         task2
         ...
 ```
+
+4. create "Bitbacket Page" about yourself
+   http://pages.bitbucket.org/
 
 ## Fill "Score" form
 https://docs.google.com/spreadsheet/ccc?key=0AnUA7wlxcI_-dFphZEFyUHFPZlJDS2hLbVJIc0VYREE&usp=drive_web#gid=0
