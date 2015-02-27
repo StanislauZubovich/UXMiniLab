@@ -4,10 +4,10 @@ University Promo Lecture (BSU, BSUIR)
  
 #1 Course Overview. Git basics.
 #2 HTML and CSS basics
-#3 HTML Layout
+#3 Sublime Text. HTML Layout
 #4 HTML Layout. Flexbox.
 #5 Responsive Web Design
-#6 Sublime Text. Web Typography. UX  
+#6 Web Typography. UX  
 #7 CSS Cookbook; HTML/CSS Q&A session; 
 #8 JavaScript Overview. Data Types. Objects
 #9 JavaScript Basics. Variables. Scope. arguments. this. 
