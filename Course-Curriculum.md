@@ -2,7 +2,7 @@
 University Promo Lecture (BSU, BSUIR)
 #0 Front-end Inspiration
  
-#1 Course Overview. Git basics. HTML and CSS basics
+#1 Course Overview. Git basics.
 #2 HTML and CSS basics
 #3 HTML Layout
 #4 HTML Layout. Flexbox.
