@@ -3,7 +3,7 @@
 2. Open Internet Explorer
 3. Copy-paste the following link:
 
-skype:?chat&blob=lIBbz--UlrHtEYngiSQ2O_trZjMx7bZAB4US_udCYoSeA4IzL5p_khBmuNbvk6fzTJKwbO1rqeXWsvBK
+skype:?chat&blob=Zd_eInTRYsRxnM_N9Kxn7J75dEpcSK-nDMHV69saolq4MzBGDt9CgzOGq3b4SVdo1jlxI1mgIh_mAwZ5
 
 ## Install the following software on your machine
 * http://nodejs.org/
