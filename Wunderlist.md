@@ -43,9 +43,15 @@ Structural requirements (SR):
     - [mongoose](http://expressjs.com/)
 
 ###Non-functional requirements (NR):
-  - Supported Browsers: Latest versions of Chrome
+  - Supported Browsers: Latest version of Chrome
 
 ###References:
 1. https://www.wunderlist.com
+
+###Recommended reading
+* [express.js API](http://expressjs.com/4x/api.html)
+* [express + mongoose demo](https://github.com/madhums/node-express-mongoose-demo)
+* [mongoose quick start](http://mongoosejs.com/docs/index.html)
+* [mongoose api](http://mongoosejs.com/docs/api.html)
 
 Screenshots/Mockups: see in folders
