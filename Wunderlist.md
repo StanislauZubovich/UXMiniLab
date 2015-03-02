@@ -35,18 +35,15 @@ TeamList is an application for team collaboration via lists of ToDo-alike extend
 Structural requirements (SR):
 - Layers:
   1. Client side:
-    - BL - Angular JS 1.2
-    - UI - jQuery 2.1+jQueryUI 1.11
+    - Angular JS 1.2
+    - jQuery 2.1+jQueryUI 1.11
+    - Whatever you want
   2. Server side:
-    - Backend - ASP.Net MVC 5
-    - BL - .Net 4.5
-    - DAL - Entity Framework 6.1.0
-- Solution:
-  1.  MS Visual Studio 2013
+    - [express.js](http://expressjs.com/)
+    - [mongoose](http://expressjs.com/)
 
 ###Non-functional requirements (NR):
-  - MS .Net 4.5
-  - Supported Browsers: TBD
+  - Supported Browsers: Latest versions of Chrome
 
 ###References:
 1. https://www.wunderlist.com
