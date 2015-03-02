@@ -40,7 +40,7 @@ Structural requirements (SR):
     - Whatever you want
   2. Server side:
     - [express.js](http://expressjs.com/)
-    - [mongoose](http://expressjs.com/)
+    - [mongoose](http://mongoosejs.com/)
 
 ###Non-functional requirements (NR):
   - Supported Browsers: Latest version of Chrome
