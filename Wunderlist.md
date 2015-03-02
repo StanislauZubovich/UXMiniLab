@@ -54,4 +54,3 @@ Structural requirements (SR):
 * [mongoose quick start](http://mongoosejs.com/docs/index.html)
 * [mongoose api](http://mongoosejs.com/docs/api.html)
 
-Screenshots/Mockups: see in folders
