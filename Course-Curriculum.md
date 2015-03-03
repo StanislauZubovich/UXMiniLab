@@ -3,9 +3,12 @@ University Promo Lecture (BSU, BSUIR)
 #0 Front-end Inspiration
  
 #1 Course Overview. Git basics.
-#2 HTML and CSS basics
-#3 Sublime Text. HTML Layout
+#2 Sublime Text. HTML and CSS basics.
+#3 HTML and CSS basics. HTML Layout.
+
 #4 HTML Layout. Flexbox.
+#5 CSS Quickdraw. UI Mockup Examples.
+
 #5 Responsive Web Design
 #6 Web Typography. UX  
 #7 CSS Cookbook; HTML/CSS Q&A session; 
