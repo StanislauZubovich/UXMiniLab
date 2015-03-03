@@ -41,7 +41,7 @@ Structural requirements (SR):
   2. Server side:
     - [express.js](http://expressjs.com/)
     - [mongoose](http://mongoosejs.com/)
-    - you can use [lowdb](https://github.com/typicode/lowdb)
+    - you can use [lowdb](https://github.com/typicode/lowdb) (for a while)
 
 ###Non-functional requirements (NR):
   - Supported Browsers: Latest version of Chrome
