@@ -41,6 +41,7 @@ Structural requirements (SR):
   2. Server side:
     - [express.js](http://expressjs.com/)
     - [mongoose](http://mongoosejs.com/)
+    - you can use [lowdb](https://github.com/typicode/lowdb)
 
 ###Non-functional requirements (NR):
   - Supported Browsers: Latest version of Chrome
@@ -53,4 +54,3 @@ Structural requirements (SR):
 * [express + mongoose demo](https://github.com/madhums/node-express-mongoose-demo)
 * [mongoose quick start](http://mongoosejs.com/docs/index.html)
 * [mongoose api](http://mongoosejs.com/docs/api.html)
-
