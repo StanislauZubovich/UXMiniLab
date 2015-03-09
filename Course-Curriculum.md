@@ -8,7 +8,7 @@ University Promo Lecture (BSU, BSUIR)
 #4 HTML Layout. Flexbox.
 #5 Responsive Web Design
 #6 CSS Quickdraw. Reallife UI Mockup Examples.
-#7 CSS Cookbook; Nastassia Tayanouskaya
+#7 CSS Cookbook;
 #8 Web Typography.  
 #9 HTML/CSS Q&A session; Разбор полетов; UX Inspiration;
 
