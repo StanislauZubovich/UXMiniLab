@@ -4,15 +4,14 @@ University Promo Lecture (BSU, BSUIR)
  
 #1 Course Overview. Git basics.
 #2 Sublime Text. HTML and CSS basics.
-#3 HTML and CSS basics. HTML Layout.
+#3 HTML and CSS basics. HTML Layout. 
 #4 HTML Layout. Flexbox.
+#5 Responsive Web Design
+#6 CSS Quickdraw. Reallife UI Mockup Examples.
+#7 CSS Cookbook; Nastassia Tayanouskaya
+#8 Web Typography.  
+#9 HTML/CSS Q&A session; Разбор полетов; UX Inspiration;
 
-#5 CSS Quickdraw. UI Mockup Examples.
-#6 Responsive Web Design
-# CSS Cookbook; Nastassia Tayanouskaya
-
-#6 Web Typography. UX  
-#7 CSS Cookbook; HTML/CSS Q&A session; 
 #8 JavaScript Overview. Data Types. Objects
 #9 JavaScript Basics. Variables. Scope. arguments. this. 
 #10 Data Structures. Workshop - Linked List implementation.
