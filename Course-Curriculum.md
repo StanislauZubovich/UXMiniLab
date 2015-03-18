@@ -6,8 +6,8 @@
 5. Responsive Web Design
 6. CSS Quickdraw. Reallife UI Mockup Examples.
 7. CSS Cookbook;
-8. Web Typography.  
-9. HTML/CSS Q&A session; Разбор полетов; UX Inspiration;
+8. Web Typography. **(R40)** 
+9. HTML/CSS Q&A session; Разбор полетов; UX Inspiration; **(R40)**
 8. JavaScript Overview. Data Types. Objects **(IMAGURU)**
 9. JavaScript Basics. Variables. Scope. arguments. this. **(IMAGURU)**
 10. Data Structures. Workshop - Linked List implementation. **(R40)**
