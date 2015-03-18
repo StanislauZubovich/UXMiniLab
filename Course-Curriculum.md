@@ -41,9 +41,11 @@
 2. https://www.codeschool.com/courses/discover-devtools
 3. https://www.codeschool.com/courses/shaping-up-with-angular-js
 
-##TODO
+```
+TODO
 * Implementation of common JavaScript patterns (Mixin, Bind, Extend, Proxy, Throttling, Debounce)
 * Application Architecture
 * Design Patterns ???
 * How browser works ???
 * Разбор полетов
+```
