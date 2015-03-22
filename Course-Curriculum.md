@@ -12,7 +12,7 @@
 9. JavaScript Basics. Variables. Scope. arguments. this. **(IMAGURU)**
 10. Data Structures. Workshop - Linked List implementation. **(R40)**
 11. Object.\*, Array.prototype.\*, Strict mode. **(IMAGURU)**
-12. Functions, this keyword, apply/call, Cloruses. **(IMAGURU)**
+12. Functions, this keyword, apply/call, Closures. **(IMAGURU)**
 13. Inheritance, Array.prototype.\*, Practical task (function make) **(IMAGURU)**
 14. DOM Basics
 15. DOM Event Handling
