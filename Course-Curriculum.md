@@ -9,9 +9,9 @@
 8. Web Typography. **(R40)** 
 9. HTML/CSS Q&A session; Разбор полетов; UX Inspiration; **(R40)**
 8. JavaScript Overview. Data Types. Objects **(IMAGURU)**
-9. JavaScript Basics. Variables. Scope. arguments. this. **(IMAGURU)**
+9. JavaScript Basics. Variables. Scope. Functions. Arguments. this. **(IMAGURU)**
 10. Data Structures. Workshop - Linked List implementation. **(R40)**
-11. Functions, this keyword, apply/call, Closures. **(IMAGURU)**
+11. Functions, apply/call, Closures. **(IMAGURU)**
 12. Object.\*, Array.prototype.\*, Strict mode. **(IMAGURU)**
 13. Inheritance, Array.prototype.\*, Practical task (function make) **(IMAGURU)**
 14. DOM Basics
