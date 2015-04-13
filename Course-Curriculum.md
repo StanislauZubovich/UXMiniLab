@@ -14,12 +14,12 @@
 13. Functions, apply/call, Closures. **(IMAGURU)**
 14. Object.\*, Array.prototype.\*, Strict mode. **(R40)**
 15. Inheritance, Array.prototype.\*, Practical task (function make) **(IMAGURU)**
-16. DOM Basics
-15. DOM Event Handling
-16. DOM. jQuery. Practical Task
-17. CSS3 Animation. Transitions. requestAnimationFrame. Practical task
-18. Project structure and asset management. (Grunt, Node.js, NPM, Bower)
-19. Iterator implementation
+16. DOM Basics **(R40)**
+15. DOM Event Handling **(R40)**
+16. DOM. jQuery. Practical Task **(R40)**
+17. CSS3 Animation. Transitions. requestAnimationFrame. Practical task **(R40)**
+18. Project structure and asset management. (Grunt, Node.js, NPM, Bower) **(R40)**
+19. Iterator implementation **(R40)**
 20. Network Basics. HTTP
 21. Ajax. Promise Pattern. Practical task
 22. WebSocket Challenge
