@@ -2,9 +2,9 @@
 1. Course Overview. Git basics. **(R40 || Imaguru)**
 2. Sublime Text. HTML and CSS basics.
 3. HTML and CSS basics. HTML Layout. 
-4. HTML Layout. Flexbox.
+4. HTML Layout. Flexbox. :computer: 
 5. Responsive Web Design
-6. CSS Quickdraw. Reallife UI Mockup Examples.
+6. CSS Quickdraw. Reallife UI Mockup Examples. :computer: 
 7. CSS Cookbook;
 8. Web Typography. **(R40)** 
 9. HTML/CSS Q&A session; Разбор полетов; UX Inspiration; **(R40)**
