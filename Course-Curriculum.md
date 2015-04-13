@@ -17,9 +17,9 @@
 16. DOM Basics **(R40)**
 15. DOM Event Handling **(R40)**
 16. DOM. jQuery. Practical Task **(R40)**
-17. CSS3 Animation. Transitions. requestAnimationFrame. Practical task **(R40)**
-18. Project structure and asset management. (Grunt, Node.js, NPM, Bower) **(R40)**
-19. Iterator implementation **(R40)**
+17. CSS3 Animation. Transitions. requestAnimationFrame. Practical task **(R40)** :computer: 
+18. Project structure and asset management. (Grunt, Node.js, NPM, Bower) **(R40)** :computer: 
+19. Iterator implementation **(R40)** :computer: 
 20. Network Basics. HTTP
 21. Ajax. Promise Pattern. Practical task
 22. WebSocket Challenge
