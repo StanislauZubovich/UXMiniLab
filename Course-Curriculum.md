@@ -21,7 +21,7 @@
 18. Project structure and asset management. (Grunt, Node.js, NPM, Bower) **(R40)** :computer: 
 19. Iterator implementation **(R40)** :computer: 
 20. Network Basics. HTTP
-21. Ajax. Promise Pattern. Practical task
+21. Ajax. Promise Pattern. Practical task :computer: 
 22. WebSocket Challenge
 23. Network. Performance, Paint and Compositing
 24. CSS preprocessors. Stylus. Brush up (Closures, Inheritance, Custom JQuery Realization)
