@@ -18,15 +18,15 @@
 15. DOM Event Handling **(R40)**
 16. DOM. jQuery. Practical Task **(R40)**
 17. CSS3 Animation. Transitions. requestAnimationFrame. Practical task **(R40)** :computer: 
-18. Project structure and asset management. (Node.js, NPM, Bower, Gulp, Yeoman) **(R40)** :computer: 
-19. Iterator implementation **(R40)** :computer: 
+18. Project structure and asset management. (Node.js, NPM, Bower, Gulp, Yeoman) **(R40)** :computer:
+19. How browser works. Paint and Compositing **(R40)** 
 20. Network Basics. HTTP **(R40)** 
 21. Ajax. Promise Pattern. Practical task **(R40)** :computer: 
 22. WebSocket Challenge **(R40)** :computer: 
 23. Network. Performance, Paint and Compositing **(R40)** 
 24. CSS preprocessors. Stylus. Brush up (Closures, Inheritance)
-25. Testing JavaScript Applications
-26. Testing JavaScript Applications
+25. Testing JavaScript Applications **(R40)**
+26. Testing JavaScript Applications. Iterator implementation **(R40)** :computer: 
 27. Yeoman. AngularJS Basics
 28. AngularJS. IoC
 29. AngularJS. Directives
