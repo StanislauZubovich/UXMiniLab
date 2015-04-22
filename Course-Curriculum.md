@@ -24,7 +24,7 @@
 21. Ajax. Promise Pattern. Practical task :computer: 
 22. WebSocket Challenge
 23. Network. Performance, Paint and Compositing
-24. CSS preprocessors. Stylus. Brush up (Closures, Inheritance, Custom JQuery Realization)
+24. CSS preprocessors. Stylus. Brush up (Closures, Inheritance)
 25. Testing JavaScript Applications
 26. Testing JavaScript Applications
 27. Yeoman. AngularJS Basics
