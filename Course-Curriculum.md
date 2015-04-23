@@ -20,7 +20,7 @@
 17. CSS3 Animation. Transitions. requestAnimationFrame. Practical task **(R40)** :computer: 
 18. Project structure and asset management. (Node.js, NPM, Bower, Gulp, Yeoman) **(R40)** :computer:
 19. How browser works. Paint and Compositing **(R40)** 
-20. Network Basics. HTTP **(R40)** 
+20. Network Basics. HTTP. WebSockets Basics + Workshop **(R40)** :computer: 
 21. Ajax. Promise Pattern. Practical task **(R40)** :computer: 
 22. WebSocket Challenge **(R40)** :computer: 
 23. Network. Performance, Paint and Compositing **(R40)** 
