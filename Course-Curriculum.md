@@ -24,14 +24,14 @@
 21. Ajax. Promise Pattern. Practical task **(R40)** :computer: 
 22. WebSocket Challenge **(R40)** :computer: 
 23. Network. Performance, Paint and Compositing **(R40)** 
-24. CSS preprocessors. Stylus. Brush up (Closures, Inheritance)
+24. CSS preprocessors. Stylus. Brush up (Closures, Inheritance) **(R40)**
 25. Testing JavaScript Applications **(R40)**
 26. Testing JavaScript Applications. Iterator implementation **(R40)** :computer: 
-27. Yeoman. AngularJS Basics
-28. AngularJS. IoC
-29. AngularJS. Directives
-30. AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource)
-31. AngularJS. Tests
+27. Yeoman. AngularJS Basics **(R40)**
+28. AngularJS. IoC **(R40)**
+29. AngularJS. Directives **(R40)**
+30. AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource) **(R40)**
+31. AngularJS. Tests **(R40)**
 32. Brush-up
 33. Node.js
 34. Node.js
