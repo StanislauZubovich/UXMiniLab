@@ -1,7 +1,7 @@
 0. Front-end Inspiration promo lecture **(BSU, BSUIR, etc.)**
 1. Course Overview. Git basics. **(R40 || Imaguru)**
-2. Sublime Text. HTML and CSS basics.
-3. HTML and CSS basics. HTML Layout. 
+2. Sublime Text. HTML and CSS basics. ** (Imaguru) **
+3. HTML and CSS basics. HTML Layout. ** (Imaguru) **
 4. HTML Layout. Flexbox. :computer: 
 5. Responsive Web Design
 6. CSS Quickdraw. Reallife UI Mockup Examples. :computer: 
