@@ -26,7 +26,7 @@
 25. Network. WebPageTest. Google PageSpeed Insights **(R40)** 
 26. Testing JavaScript Applications **(R40)**
 27. Testing JavaScript Applications. **(R40)** :computer: 
-28. Iterator implementation. CSS preprocessors. Stylus. **(R40)**
+28. Iterator implementation. CSS preprocessors. Stylus. **(R40)** :computer:
 29. Yeoman. AngularJS Basics **(R40)**
 30. AngularJS. IoC **(R40)**
 31. AngularJS. Directives **(R40)**
