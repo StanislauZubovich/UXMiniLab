@@ -23,8 +23,8 @@
 20. Network Basics. HTTP. WebSockets Basics + Workshop **(R40)** :computer: 
 21. Ajax. Promise Pattern. Practical task **(R40)** :computer: 
 22. WebSocket Challenge **(R40)** :computer: 
-23. Network. Performance, Paint and Compositing **(R40)** 
-24. CSS preprocessors. Stylus. Brush up (Closures, Inheritance) **(R40)**
+23. Network. WebPageTest. Google PageSpeed Insights **(R40)** 
+24. Network. CSS preprocessors. Stylus. Brush up (Closures, Inheritance) **(R40)**
 25. Testing JavaScript Applications **(R40)**
 26. Testing JavaScript Applications. Iterator implementation **(R40)** :computer: 
 27. Yeoman. AngularJS Basics **(R40)**
