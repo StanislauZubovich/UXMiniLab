@@ -15,26 +15,26 @@
 14. Object.\*, Array.prototype.\*, Strict mode. **(R40)**
 15. Inheritance, Array.prototype.\*, Practical task (function make) **(IMAGURU)**
 16. DOM Basics **(R40)**
-15. DOM Event Handling **(R40)**
-16. DOM. jQuery. Practical Task **(R40)**
-17. CSS3 Animation. Transitions. requestAnimationFrame. Practical task **(R40)** :computer: 
-18. Project structure and asset management. (Node.js, NPM, Bower, Gulp, Yeoman) **(R40)** :computer:
-19. How browser works. Paint and Compositing **(R40)** 
-20. Network Basics. HTTP. WebSockets Basics + Workshop **(R40)** :computer: 
-21. Ajax. Promise Pattern. Practical task **(R40)** :computer: 
-22. WebSocket Challenge **(R40)** :computer: 
-23. Network. WebPageTest. Google PageSpeed Insights **(R40)** 
-24. Network. CSS preprocessors. Stylus. Brush up (Closures, Inheritance) **(R40)**
-25. Testing JavaScript Applications **(R40)**
-26. Testing JavaScript Applications. Iterator implementation **(R40)** :computer: 
-27. Yeoman. AngularJS Basics **(R40)**
-28. AngularJS. IoC **(R40)**
-29. AngularJS. Directives **(R40)**
-30. AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource) **(R40)**
-31. AngularJS. Tests **(R40)**
-32. Brush-up
-33. Node.js
-34. Node.js
+17. DOM Event Handling **(R40)**
+18. DOM. jQuery. Practical Task **(R40)**
+19. CSS3 Animation. Transitions. requestAnimationFrame. Practical task **(R40)** :computer: 
+20. Project structure and asset management. (Node.js, NPM, Bower, Gulp, Yeoman) **(R40)** :computer:
+21. How browser works. Paint and Compositing **(R40)** 
+22. Network Basics. HTTP. WebSockets Basics + Workshop **(R40)** :computer: 
+23. Ajax. Promise Pattern. Practical task **(R40)** :computer: 
+24. WebSocket Challenge **(R40)** :computer: 
+25. Network. WebPageTest. Google PageSpeed Insights **(R40)** 
+26. Testing JavaScript Applications **(R40)**
+27. Testing JavaScript Applications. **(R40)** :computer: 
+28. Iterator implementation. CSS preprocessors. Stylus. **(R40)**
+29. Yeoman. AngularJS Basics **(R40)**
+30. AngularJS. IoC **(R40)**
+31. AngularJS. Directives **(R40)**
+32. AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource) **(R40)**
+33. AngularJS. Tests **(R40)**
+34. Brush-up
+35. Node.js
+36. Node.js
 
 ##Online via Codeschool:
 1. https://www.codeschool.com/courses/try-git
