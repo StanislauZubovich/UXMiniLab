@@ -19,6 +19,7 @@
 [10 Terminal Commands That Will Boost Your Productivity]
 (http://code.tutsplus.com/articles/10-terminal-commands-that-will-boost-your-productivity--net-14105)
 
+## Sublime most useful hotkeys 
 
 |хоткей				| действие|
 |-----------------------|-----------------------|
