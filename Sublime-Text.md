@@ -1,5 +1,3 @@
-## Sublime Text
-
 [Sublime Text Power User presentation & Reddit Talk](http://www.reddit.com/r/webdev/comments/2c4gt9/become_a_sublime_text_power_user_presentation_use/)
 
 [Sublime Text Tips Twitter](https://twitter.com/SublimeTxtTips)
