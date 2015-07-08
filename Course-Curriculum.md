@@ -19,7 +19,7 @@
 18. DOM. jQuery. Practical Task **(R40)**
 19. Animation.  **(R40)** :computer: 
    * CSS3 Transitions
-   * CSS3 transform
+   * CSS3 Transforms
    * requestAnimationFrame
    * Performance issues
    * Practical task
