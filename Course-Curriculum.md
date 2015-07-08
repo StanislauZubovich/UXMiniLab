@@ -28,6 +28,10 @@
 22. Network Basics. HTTP. WebSockets Basics + Workshop **(R40)** :computer: 
 23. Ajax. Promise Pattern. Practical task **(R40)** :computer: 
 24. WebSocket Challenge **(R40)** :computer: 
+   * What is websockets?
+   * Websockets API
+   * Typed arrays
+   * Сompetition
 25. Network. **(R40)**
    * Bandwidth and Latency
    * General HTTP Request/Response lifecycle
