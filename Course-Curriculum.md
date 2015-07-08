@@ -28,7 +28,17 @@
 22. Network Basics. HTTP. WebSockets Basics + Workshop **(R40)** :computer: 
 23. Ajax. Promise Pattern. Practical task **(R40)** :computer: 
 24. WebSocket Challenge **(R40)** :computer: 
-25. Network. WebPageTest. Google PageSpeed Insights **(R40)** 
+25. Network. 
+   * Bandwidth and Latency
+   * General HTTP Request/Response lifecycle
+   * Three-Way Handshake
+   * SPDY
+   * Google PageSpeed Insights
+   * Google WebPageTest
+   
+ 
+
+WebPageTest. Google PageSpeed Insights **(R40)** 
 26. Testing JavaScript Applications **(R40)**
 27. Testing JavaScript Applications. **(R40)** :computer: 
 28. Iterator implementation. CSS preprocessors. Stylus. **(R40)** :computer:
