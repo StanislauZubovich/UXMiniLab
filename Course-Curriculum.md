@@ -17,7 +17,12 @@
 16. DOM Basics **(R40)**
 17. DOM Event Handling **(R40)**
 18. DOM. jQuery. Practical Task **(R40)**
-19. CSS3 Animation. Transitions. requestAnimationFrame. Practical task **(R40)** :computer: 
+19. Animation.  **(R40)** :computer: 
+   * CSS3 Transitions
+   * CSS3 transform
+   * requestAnimationFrame
+   * Performance issues
+   * Practical task
 20. Project structure and asset management. (Node.js, NPM, Bower, Gulp, Yeoman) **(R40)** :computer:
 21. How browser works. Paint and Compositing **(R40)** 
 22. Network Basics. HTTP. WebSockets Basics + Workshop **(R40)** :computer: 
