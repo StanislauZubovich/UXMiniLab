@@ -31,7 +31,6 @@
 25. Network. **(R40)**
    * Bandwidth and Latency
    * General HTTP Request/Response lifecycle
-   * Three-Way Handshake
    * SPDY
    * Google PageSpeed Insights
    * Google WebPageTest
