@@ -13,7 +13,7 @@
    * History
    * Data Types
    * Object
-   * [[prototype]]
+   * \_\_proto\_\_
    * Primitive data types
    * Array
    * Operators
