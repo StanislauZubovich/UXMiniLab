@@ -24,7 +24,12 @@
    * Performance issues
    * Practical task
 20. Project structure and asset management. (Node.js, NPM, Bower, Gulp, Yeoman) **(R40)** :computer:
-21. How browser works. Paint and Compositing **(R40)** 
+21. How browser works. Paint and Compositing **(R40)**
+   * Page Render Cycle
+   * Frame budget
+   * Paint
+   * Software mode vs Accelerated compositing mode
+   * Profiling tools
 22. Network Basics. HTTP. WebSockets Basics + Workshop **(R40)** :computer: 
 23. Ajax. Promise Pattern. Practical task **(R40)** :computer: 
 24. WebSocket Challenge **(R40)** :computer: 
