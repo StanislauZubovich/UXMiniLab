@@ -1,5 +1,5 @@
 0. Front-end Inspiration promo lecture **(BSU, BSUIR, etc.)**
-1. Course Overview. Git basics. **(R40 || Imaguru)**
+1. Course Overview. Git basics. **(R40)**
 2. Sublime Text. HTML and CSS basics. **(Imaguru)**
 3. HTML and CSS basics. HTML Layout. **(Imaguru)**
 4. HTML Layout. Flexbox. :computer: 
@@ -19,8 +19,8 @@
    * Pseudo-elements
    * Footer
    * Sliding-door technique
-8. Web Typography. **(R40)** 
-9. HTML/CSS Q&A session; Разбор полетов; UX Inspiration; **(R40)**
+8. Web Typography.
+9. HTML/CSS Q&A session; Разбор полетов; UX Inspiration;
 10. JavaScript Overview. **(IMAGURU)**
    * JavaScript is everywhere
    * History
@@ -36,9 +36,9 @@
    * Global Scope
    * Namespaces
    * Hoisting
-12. Data Structures. Workshop - Linked List implementation. **(R40)**
+12. Data Structures. Workshop - Linked List implementation. 
 13. Functions, apply/call, Closures. **(IMAGURU)**
-14. Object.\*, Array.prototype.\*, Strict mode. **(R40)**
+14. Object.\*, Array.prototype.\*, Strict mode. 
 15. Inheritance, Array.prototype.\*, Practical task (function make) **(IMAGURU)**
 16. DOM Basics **(R40)**
 17. DOM Event Handling **(R40)**
@@ -54,19 +54,19 @@
    * requestAnimationFrame
    * Performance issues
    * Practical task
-20. Project structure and asset management. **(R40)** :computer:
+20. Project structure and asset management. :computer:
    * Node.js
    * NPM
    * Gulp
    * Yeoman
    * Practical task
-21. How browser works. Paint and Compositing **(R40)**
+21. How browser works. Paint and Compositing
    * Page Render Cycle
    * Frame budget
    * Paint
    * Software mode vs Accelerated compositing mode
    * Profiling tools
-22. Network Basics. HTTP. WebSockets Basics + Workshop **(R40)** :computer: 
+22. Network Basics. HTTP. WebSockets Basics + Workshop :computer: 
 23. Ajax. Promise Pattern. Practical task **(R40)** :computer:
    * Ajax
      * WTF is ajax (sync vs async web app model)
@@ -85,7 +85,7 @@
      * Promise states
      * Promise API
      * Example with ajax
-24. WebSocket Challenge **(R40)** :computer: 
+24. WebSocket Challenge :computer: 
    * What is websocket?
    * Websocket API
    * Typed arrays
@@ -96,14 +96,14 @@
    * SPDY
    * Google PageSpeed Insights
    * Google WebPageTest
-26. Testing JavaScript Applications **(R40)**
-27. Testing JavaScript Applications. **(R40)** :computer: 
-28. Iterator implementation. CSS preprocessors. Stylus. **(R40)** :computer:
-29. Yeoman. AngularJS Basics **(R40)**
-30. AngularJS. IoC **(R40)**
-31. AngularJS. Directives **(R40)**
-32. AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource) **(R40)**
-33. AngularJS. Tests **(R40)**
+26. Testing JavaScript Applications
+27. Testing JavaScript Applications. :computer: 
+28. Iterator implementation. CSS preprocessors. Stylus. :computer:
+29. Yeoman. AngularJS Basics
+30. AngularJS. IoC 
+31. AngularJS. Directives
+32. AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource)
+33. AngularJS. Tests 
 34. Brush-up
 35. Node.js
 36. Node.js
