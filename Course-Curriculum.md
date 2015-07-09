@@ -5,7 +5,20 @@
 4. HTML Layout. Flexbox. :computer: 
 5. Responsive Web Design
 6. CSS Quickdraw. Reallife UI Mockup Examples. :computer: 
-7. CSS Cookbook;
+   * Competition
+   * Reallife UI Mockup Examples
+     * Responsibilities of HTML Coder
+     * Browser List
+     * Using CMS
+     * Perfomance improvements
+     * Adaptive Web Design
+     * Testing
+7. CSS Cookbook
+   * Centering elements
+   * Ellipsis
+   * Pseudo-elements
+   * Footer
+   * Sliding-door technique
 8. Web Typography. **(R40)** 
 9. HTML/CSS Q&A session; Разбор полетов; UX Inspiration; **(R40)**
 10. JavaScript Overview. **(IMAGURU)**
