@@ -23,7 +23,12 @@
    * requestAnimationFrame
    * Performance issues
    * Practical task
-20. Project structure and asset management. (Node.js, NPM, Bower, Gulp, Yeoman) **(R40)** :computer:
+20. Project structure and asset management. **(R40)** :computer:
+   * Node.js
+   * NPM
+   * Gulp
+   * Yeoman
+   * Practical task
 21. How browser works. Paint and Compositing **(R40)**
    * Page Render Cycle
    * Frame budget
