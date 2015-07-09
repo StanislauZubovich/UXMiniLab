@@ -21,6 +21,7 @@
    * Selectors
    * working with DOM (manipulation, events, animation)
    * plugins
+   * Practical taks (Towers of hanoi)
 19. Animation.  **(R40)** :computer: 
    * CSS3 Transitions
    * CSS3 Transforms
