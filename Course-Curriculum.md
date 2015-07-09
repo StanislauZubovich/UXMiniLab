@@ -8,8 +8,21 @@
 7. CSS Cookbook;
 8. Web Typography. **(R40)** 
 9. HTML/CSS Q&A session; Разбор полетов; UX Inspiration; **(R40)**
-10. JavaScript Overview. Data Types. Objects **(IMAGURU)**
+10. JavaScript Overview. **(IMAGURU)**
+   * JavaScript is everywhere
+   * History
+   * Data Types
+   * Object
+   * __proto__   
+   * Primitive data types
+   * Array
+   * Operators
 11. JavaScript Basics. Variables. Scope. Functions. Arguments. this. **(IMAGURU)**
+   * Variables
+   * Scope
+   * Global Scope
+   * Namespaces
+   * Hoisting
 12. Data Structures. Workshop - Linked List implementation. **(R40)**
 13. Functions, apply/call, Closures. **(IMAGURU)**
 14. Object.\*, Array.prototype.\*, Strict mode. **(R40)**
