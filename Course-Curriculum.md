@@ -17,6 +17,10 @@
 16. DOM Basics **(R40)**
 17. DOM Event Handling **(R40)**
 18. DOM. jQuery. Practical Task **(R40)**
+   * Why to use it?
+   * Selectors
+   * working with DOM (manipulation, events, animation)
+   * plugins
 19. Animation.  **(R40)** :computer: 
    * CSS3 Transitions
    * CSS3 Transforms
