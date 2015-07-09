@@ -41,23 +41,24 @@
    * Software mode vs Accelerated compositing mode
    * Profiling tools
 22. Network Basics. HTTP. WebSockets Basics + Workshop **(R40)** :computer: 
-23. Ajax. Promise Pattern. Practical task **(R40)** :computer: 
-   * WTF is ajax (sync vs async web app model)
-   * History
-   * XHR api (content types, status, readyState, onreadystatechange, props, methods)
-   * JQuery ajax
-   * Same origin policy
-   * JSONP
-   * CORS
-   * COMET, WS
-   * pros/cons
-   Promise:
-   * JQuery deferreds API
-   * Examples
-   * Promise
-   * Promise states
-   * Promise API
-   * Example with ajax
+23. Ajax. Promise Pattern. Practical task **(R40)** :computer:
+   * Ajax
+     * WTF is ajax (sync vs async web app model)
+     * History
+     * XHR api (content types, status, readyState, onreadystatechange, props, methods)
+     * JQuery ajax
+     * Same origin policy
+     * JSONP
+     * CORS
+     * COMET, WS
+     * pros/cons
+   * Promise:
+     * JQuery deferreds API
+     * Examples
+     * Promise
+     * Promise states
+     * Promise API
+     * Example with ajax
 24. WebSocket Challenge **(R40)** :computer: 
    * What is websocket?
    * Websocket API
