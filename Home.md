@@ -6,3 +6,5 @@ FAQ:
 
 [Как и куда отправлять д/з](https://gist.github.com/R1ZZU/ff1b5a3b045fc8ce945a)
 
+[Требования в верстке](http://habrahabr.ru/company/htmlacademy/blog/254171/)
+
