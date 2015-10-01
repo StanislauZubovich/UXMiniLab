@@ -1,4 +1,8 @@
-Trainer: Nastassia Tayanouskaya
+###Trainer: Nastassia Tayanouskaya
+###Slides:
+https://github.com/Anastasia-Tayanovskaya/css-recipes
+
+###Content
 
   - Центрирование блочного элемента по горизонтали
   - Центрирование текста по горизонтали
