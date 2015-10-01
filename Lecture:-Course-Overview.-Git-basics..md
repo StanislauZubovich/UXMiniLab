@@ -1,4 +1,3 @@
-### Lecture: Course Overview. Git basics.
 Trainer: Dzmitry Varabei   
 ####[Course overview](http://dzmitry-varabei.github.io/front-end-course/lecture-0-course-intro/#/)
 - trainer contacts
