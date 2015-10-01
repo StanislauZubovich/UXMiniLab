@@ -66,7 +66,8 @@ Trainer: Oleg Petrenko
 ______
 
 ### Lecture #3 - HTML Day II. Box model
-Trainer: Oleg Petrenko 
+Trainer: Oleg Petrenko
+ 
 1. CSS
   - Специфичность
     - Вес селекторов
@@ -122,5 +123,6 @@ Trainer: Oleg Petrenko
   - SEO friendly 
   - Сode style
   - ID vs. Class
+
 ______
 
