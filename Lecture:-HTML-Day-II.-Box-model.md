@@ -1,4 +1,4 @@
-Trainer: Oleg Petrenko
+Trainer: Oleg Petrenko, Maria Putyrskaya
  
 1. CSS
   - Специфичность
