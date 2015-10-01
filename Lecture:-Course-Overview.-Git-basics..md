@@ -1,6 +1,6 @@
-Trainer: Dzmitry Varabei  
+###Trainer: Dzmitry Varabei  
 
-Slides:
+###Slides:
 - [Course overview](http://dzmitry-varabei.github.io/front-end-course/lecture-0-course-intro/#/)
 - [Online education](http://dzmitry-varabei.github.io/online-education/#/)
 - [Intro to front-end](http://dzmitry-varabei.github.io/js-for-dummies/#/)
