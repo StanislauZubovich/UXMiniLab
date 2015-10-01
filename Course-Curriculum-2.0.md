@@ -8,6 +8,7 @@
 6. [CSS Workshop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Workshop)
 7. [Responsive Web Design](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Responsive-Web-Design)
 8. [Examples of real projects. CSS Quickdraw](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Examples-of-real-projects.-CSS-Quickdraw)
+9. [CSS Q&A Session. Introduction to Browser Internals](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Q&A-Session.-Introduction-to-Browser-Internals)
 
 Future
 - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
