@@ -17,4 +17,8 @@ Trainer: Dzmitry Varabei
 - challenges
 - JS everywhere
 
-#### [Git Story](http://dzmitry-varabei.github.io/front-end-course/git-story/#/)
+####[Git Story](http://dzmitry-varabei.github.io/front-end-course/git-story/#/)
+- git history
+- git architecture
+- SHA1 algorithm
+- git aliases
