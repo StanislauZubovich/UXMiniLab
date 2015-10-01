@@ -1,26 +1,4 @@
-0. Front-end Inspiration promo lecture **(BSU, BSUIR, etc.)**
-1. Course Overview. Git basics.
-2. Sublime Text. HTML and CSS basics. **(Imaguru)**
-3. HTML and CSS basics. HTML Layout. **(Imaguru)**
-4. HTML Layout. Flexbox. :computer: 
-5. Responsive Web Design
-6. CSS Quickdraw. Reallife UI Mockup Examples. :computer: 
-   * Competition
-   * Reallife UI Mockup Examples
-     * Responsibilities of HTML Coder
-     * Browser List
-     * Using CMS
-     * Perfomance improvements
-     * Adaptive Web Design
-     * Testing
-7. CSS Cookbook
-   * Centering elements
-   * Ellipsis
-   * Pseudo-elements
-   * Footer
-   * Sliding-door technique
-8. Web Typography.
-9. HTML/CSS Q&A session; Разбор полетов; UX Inspiration;
+
 10. JavaScript Overview. **(IMAGURU)**
    * JavaScript is everywhere
    * History
