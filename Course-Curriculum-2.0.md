@@ -6,3 +6,8 @@
 4. [Sublime Text. Web Typography](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Sublime-Text.-Web-typography)
 5. [CSS Recipes](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Recipes)
 6. [CSS Workshop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Workshop)
+
+
+Future
+- [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
+- [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
