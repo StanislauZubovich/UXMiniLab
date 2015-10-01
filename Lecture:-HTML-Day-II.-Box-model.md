@@ -1,9 +1,11 @@
 ###Trainers: Oleg Petrenko, Maria Putyrskaya
+
 ###Slides
   - [HTML DAY II](http://slides.com/olegpetrenko/deck-1#/)
   - [Box Model](http://slides.com/maria_putyrskaya/css-elements-layout-and-position#/)
   - [CSS3 Basics](http://slides.com/maria_putyrskaya/css3basics#/)
   - [Semantics](http://slides.com/maria_putyrskaya/semantics#/)
+
 ###Content
 1. CSS
   - Специфичность
