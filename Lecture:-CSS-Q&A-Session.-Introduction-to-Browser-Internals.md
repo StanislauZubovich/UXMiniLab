@@ -1,4 +1,4 @@
-###Trainers: Pavel Guzikov
+###Trainers: Pavel Guzikov, Maria Putyrskaya
 
 ###Content
 1. Introduction to Browser Internals
