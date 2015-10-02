@@ -10,6 +10,9 @@
 - [Часть 1](https://www.youtube.com/watch?v=MJAqvRK6hg8)
 - [Часть 2](https://www.youtube.com/watch?v=zTpaqLBeOOY)
 
+###Тренируем знания селекторов:
+http://flukeout.github.io/
+
 ###Content
 1. CSS
   - Специфичность
