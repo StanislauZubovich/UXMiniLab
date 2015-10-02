@@ -1,5 +1,7 @@
 ###Trainer: Nastassia Tayanouskaya
 ###Slides:
+http://anastasia-tayanovskaya.github.io/
+или тут:
 https://github.com/Anastasia-Tayanovskaya/css-recipes
 
 ###Video
