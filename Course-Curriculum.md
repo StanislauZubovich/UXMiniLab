@@ -87,7 +87,6 @@
 36. Node.js
 
 ##Online via Codeschool:
-1. https://www.codeschool.com/courses/try-git
 2. https://www.codeschool.com/courses/discover-devtools
 3. https://www.codeschool.com/courses/shaping-up-with-angular-js
 
