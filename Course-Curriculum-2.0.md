@@ -11,11 +11,14 @@
 8. [Examples of real projects. CSS Quickdraw](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Examples-of-real-projects.-CSS-Quickdraw)
 9. [CSS Q&A Session. Introduction to Browser Internals](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Q&A-Session.-Introduction-to-Browser-Internals)
 
-Future
+Future:
 - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
 - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
 - [User Experience Best Practices](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-User-Experience-Best-Practices)
-- [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
 - [ES6 Modules](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6-Modules)
 - [Animations](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Animations)
+
+
+Distant future:
+- [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
 - [CSS Style Guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Style-Guide)
