@@ -2,6 +2,10 @@
 ###Slides:
 https://github.com/Anastasia-Tayanovskaya/css-recipes
 
+###Video
+https://www.youtube.com/watch?v=DbutriT37aI
+https://www.youtube.com/watch?v=8IdwZzGeErQ
+
 ###Content
 
   - Центрирование блочного элемента по горизонтали
