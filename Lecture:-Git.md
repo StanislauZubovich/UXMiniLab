@@ -4,9 +4,9 @@
 - http://dzmitry-varabei.github.io/front-end-course/git-story/#/
 
 ###Git Basics
-...
-Адекватные имена коммитов
-Адекватные имена бранчей
+  - ...
+  - Адекватные имена коммитов
+  - Адекватные имена бранчей
 
 ###Git Story
 - git history
