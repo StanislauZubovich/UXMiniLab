@@ -6,6 +6,9 @@
   - [CSS3 Basics](http://slides.com/maria_putyrskaya/css3basics#/)
   - [Semantics](http://slides.com/maria_putyrskaya/semantics#/)
 
+###Video
+https://www.youtube.com/watch?v=zTpaqLBeOOY
+
 ###Content
 1. CSS
   - Специфичность
