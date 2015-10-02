@@ -7,8 +7,8 @@
   - [Semantics](http://slides.com/maria_putyrskaya/semantics#/)
 
 ###Video
-https://www.youtube.com/watch?v=MJAqvRK6hg8
-https://www.youtube.com/watch?v=zTpaqLBeOOY
+- [Часть 1](https://www.youtube.com/watch?v=MJAqvRK6hg8)
+- [Часть 2](https://www.youtube.com/watch?v=zTpaqLBeOOY)
 
 ###Content
 1. CSS
