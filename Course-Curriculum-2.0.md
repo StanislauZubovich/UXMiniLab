@@ -18,3 +18,4 @@ Future
 - [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
 - [ES6 Modules](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6-Modules)
 - [Animations](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Animations)
+- [CSS Style Guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Style-Guide)
