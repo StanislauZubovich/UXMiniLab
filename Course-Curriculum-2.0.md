@@ -16,3 +16,4 @@ Future
 - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
 - [User Experience Best Practices](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-User-Experience-Best-Practices)
 - [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
+- [ES6 Modules](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6-Modules)
