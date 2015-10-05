@@ -15,4 +15,18 @@
   - Object.create
   - for in statement
   - many ways to create an object in JavaScript
-
+4. \[\[prototype\]\] VS prototype
+  - function.prototype
+  - constructor function
+  - new operator
+5. Prototypal inheritance
+  - methods
+  - features 
+  - getter and setters
+  - instanceof
+6. Pseudoclassical inheritance
+  - extent
+  - private members
+  - extending without inheriting
+7. Parasitic inheritance 
+  
