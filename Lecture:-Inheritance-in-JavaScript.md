@@ -29,4 +29,7 @@
   - private members
   - extending without inheriting
 7. Parasitic inheritance 
+
+###Links
+- [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
   
