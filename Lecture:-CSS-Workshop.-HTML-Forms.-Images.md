@@ -1,8 +1,13 @@
 ###Trainer: Maria Putyrskaya
+###Workshop agenda
 
-###Content
-1. Воркшоп "Верстка стилизованных форм"
-  - Макет для воркшопа: https://www.dropbox.com/sh/sc0pc37pfmdmyj9/AAAN3byZFbM4QGn6k89vWTcea?dl=0
-2. Работа с изображениями
-  - Форматы изображений их отличия и использование
-  - Спрайты, иконочные шрифты
+1. Grafics formats
+2. How to use photoshop: take text properties, sizes, positions, save and optimize graphics for web
+
+useful links:
+* http://xiper.net/learn/photoshop/optimization-jpeg
+* http://xiper.net/learn/photoshop/optimization-gif-and-png-8
+
+3. Sprites: 2 way to prepare
+4. Img vs. Background (http://xiper.net/learn/tegofenshuj/img-vs-backround-image)
+5. Forms and widgets workshop
