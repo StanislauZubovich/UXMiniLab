@@ -19,6 +19,7 @@ Future:
 - [Animations](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Animations)
 - [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises)
 - [jQuery](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
+- [Inheritance in JavaScript](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Inheritance-in-JavaScript)
 
 
 Distant future:
