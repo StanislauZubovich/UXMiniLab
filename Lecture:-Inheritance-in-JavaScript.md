@@ -25,11 +25,12 @@
   - getter and setters
   - instanceof
 6. Pseudoclassical inheritance
-  - extent
+  - extend
   - private members
   - extending without inheriting
 7. Parasitic inheritance 
 
 ###Links
 - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+- https://github.com/joshburgess/not-awesome-es6-classes
   
