@@ -21,6 +21,7 @@ Future:
 - [jQuery](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 - [Inheritance in JavaScript](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Inheritance-in-JavaScript)
 - [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)
+- [DOM. Event Loop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-DOM.-Event-loop)
 
 
 Distant future:
