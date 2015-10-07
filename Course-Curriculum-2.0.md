@@ -20,6 +20,7 @@ Future:
 - [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises)
 - [jQuery](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 - [Inheritance in JavaScript](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Inheritance-in-JavaScript)
+- [Functions is JavaScript](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
 - [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)
 - [DOM. Event Loop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-DOM.-Event-loop)
 - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
