@@ -1,5 +1,10 @@
 ###Trainer: Dzmitry Varabei
 
+###Slides
+- [First Part](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/index-objects.html#/)
+- [Second Part](http://dzmitry-varabei.github.io/front-end-course/inheritance-in-javascript/Inheritance.pptx)
+- [Parasitic Inheritance](http://dzmitry-varabei.github.io/front-end-course/inheritance-in-javascript/ParasiticInheritance.htm)
+
 ###Content
 
 1. Object and Classes
