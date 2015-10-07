@@ -38,4 +38,5 @@
 ###Links
 - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 - https://github.com/joshburgess/not-awesome-es6-classes
+- http://mrale.ph/v8/resources.html
   
