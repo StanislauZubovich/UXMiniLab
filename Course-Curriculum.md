@@ -102,3 +102,21 @@ TODO
 * How browser works ???
 * Разбор полетов
 ```
+
+###Krakow
+1. 'use strict', Object.* (эта лекция была сегодня)
+2. Yeoman and WebApp Generator in depth (including html5 boilerplate)
+3. Object and Array most useful methods
+4. HTTP 1.1 by Aliaksandr Karlovich
+5. HTTP 2.0 by Aliaksandr Karlovich 
+6. AJAX by Andrei Yanovich
+7. Promises by Andrei Yanovich
+8. Network profiling tools (PageSpeed insight, WebPageTest)
+9. Event Loop
+10. WebSocket Challenge Workshop
+11. How browser works?
+12. Testing JavaScript applications by Dzmitry Herasimov
+13. ES6 Basics
+14. ES6 Classes
+15. Webpack
+
