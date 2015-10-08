@@ -24,6 +24,7 @@ Future:
 - [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)
 - [DOM. Event Loop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-DOM.-Event-loop)
 - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
+- [Use strict, Object.*](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Use-strict.-Object.*)
 
 
 Distant future:
