@@ -12,7 +12,7 @@
 10. [User Experience Best Practices](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-User-Experience-Best-Practices)
 11. [CSS Q&A Session. Introduction to Browser Internals](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Q&A-Session.-Introduction-to-Browser-Internals)
 12. [JavaScript overview](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-JavaScript-Overview)
-13. Functions and Scopes
+13. Functions and Scope
   - [Scope](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Scope)
   - [Functions. Part I](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
 
