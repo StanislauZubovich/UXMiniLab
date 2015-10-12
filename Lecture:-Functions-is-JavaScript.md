@@ -1,3 +1,9 @@
+###Trainer: Dzmitry Varabei
+
+###Slides:
+http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/#/
+http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/index-part2.html#/
+
 ###Practise
 
 __Simple Functions:__
