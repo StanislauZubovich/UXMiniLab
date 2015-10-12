@@ -3,7 +3,6 @@ https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
 
 ###Lectures
 
-11. JavaScript Basics. Variables. Scope. Functions. Arguments. this. **(IMAGURU)**
 12. Data Structures. Workshop - Linked List implementation. 
 13. Functions, apply/call, Closures. **(IMAGURU)**
 14. Object.\*, Array.prototype.\*, Strict mode. 
