@@ -12,6 +12,9 @@
 10. [User Experience Best Practices](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-User-Experience-Best-Practices)
 11. [CSS Q&A Session. Introduction to Browser Internals](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Q&A-Session.-Introduction-to-Browser-Internals)
 12. [JavaScript overview](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-JavaScript-Overview)
+13. Functions and Scopes
+  - [Scope](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Scope)
+  - [Functions. Part I](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
 
 Future:
 - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
@@ -22,7 +25,6 @@ Future:
 - [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises)
 - [jQuery](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 - [Inheritance in JavaScript](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Inheritance-in-JavaScript)
-- [Functions is JavaScript](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
 - [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)
 - [DOM. Event Loop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-DOM.-Event-loop)
 - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
