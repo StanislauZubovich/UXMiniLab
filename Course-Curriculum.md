@@ -3,15 +3,6 @@ https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
 
 ###Lectures
 
-10. JavaScript Overview. **(IMAGURU)**
-   * JavaScript is everywhere
-   * History
-   * Data Types
-   * Object
-   * \_\_proto\_\_
-   * Primitive data types
-   * Array
-   * Operators
 11. JavaScript Basics. Variables. Scope. Functions. Arguments. this. **(IMAGURU)**
    * Variables
    * Scope
