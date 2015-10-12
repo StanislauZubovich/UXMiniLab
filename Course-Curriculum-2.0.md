@@ -15,6 +15,7 @@
 13. Functions and Scope
   - [Scope](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Scope)
   - [Functions. Part I](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
+14. [Functions. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
 
 Future:
 - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
