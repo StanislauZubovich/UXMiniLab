@@ -16,7 +16,7 @@
   - [Scope](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Scope)
   - [Functions. Part I](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
 14. [Functions. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
-15. [Inheritance in JavaScript](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Inheritance-in-JavaScript)
+15. [Inheritance in JavaScript. Brush-up.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Inheritance-in-JavaScript)
 
 Future:
 - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
