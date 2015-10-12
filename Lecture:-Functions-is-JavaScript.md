@@ -4,6 +4,22 @@
 - http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/#/
 - http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/index-part2.html#/
 
+###Content
+
+__Part I__ 
+ - Function declaration vs function expression
+ - Function constructor
+ - Strategy of passing arguments to function
+ - First class functions
+ - Functions as data
+ - Static members
+ - return statement
+ - Function arguments
+ - Pseudo parameters
+ - "arguments" object
+ - "this" keyword
+ - types of invocation
+
 ###Practise
 
 __Simple Functions:__
