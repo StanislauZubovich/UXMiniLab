@@ -8,13 +8,15 @@
 6. [CSS Workshop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Workshop)
 7. [Responsive Web Design](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Responsive-Web-Design)
 8. [CSS Workshop. HTML Forms. Images](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Workshop.-HTML-Forms.-Images)
-8. [Examples of real projects. CSS Quickdraw](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Examples-of-real-projects.-CSS-Quickdraw)
-9. [CSS Q&A Session. Introduction to Browser Internals](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Q&A-Session.-Introduction-to-Browser-Internals)
+9. [Examples of real projects. CSS Quickdraw](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Examples-of-real-projects.-CSS-Quickdraw)
+10. [User Experience Best Practices](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-User-Experience-Best-Practices)
+11. [CSS Q&A Session. Introduction to Browser Internals](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Q&A-Session.-Introduction-to-Browser-Internals)
+12. [JavaScript overview](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-JavaScript-Overview)
 
 Future:
 - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
 - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
-- [User Experience Best Practices](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-User-Experience-Best-Practices)
+
 - [ES6 Modules](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6-Modules)
 - [Animations](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Animations)
 - [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises)
