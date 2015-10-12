@@ -18,7 +18,18 @@ __Part I__
  - Pseudo parameters
  - "arguments" object
  - "this" keyword
- - types of invocation
+ - types of invocation 
+
+__Part II__ 
+ - Duck Typing
+ - Lexical or static scope
+ - Closures
+ - Environment terminology
+ - [[Scope]]
+ - Private methods
+ - Immediately-Invoked Function Expression
+ - Chaining
+ - Singleton, Decorator, memoization ...
 
 ###Practise
 
