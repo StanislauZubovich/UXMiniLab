@@ -4,7 +4,6 @@ https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
 ###Lectures
 
 12. Data Structures. Workshop - Linked List implementation. 
-13. Functions, apply/call, Closures. **(IMAGURU)**
 14. Object.\*, Array.prototype.\*, Strict mode. 
 15. Inheritance, Array.prototype.\*, Practical task (function make) **(IMAGURU)**
 16. DOM Basics **(R40)**
