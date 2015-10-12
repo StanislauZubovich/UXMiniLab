@@ -16,16 +16,15 @@
   - [Scope](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Scope)
   - [Functions. Part I](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
 14. [Functions. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
+15. [Inheritance in JavaScript](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Inheritance-in-JavaScript)
 
 Future:
 - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
 - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
-
 - [ES6 Modules](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6-Modules)
 - [Animations](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Animations)
 - [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises)
 - [jQuery](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
-- [Inheritance in JavaScript](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Inheritance-in-JavaScript)
 - [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)
 - [DOM. Event Loop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-DOM.-Event-loop)
 - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
