@@ -12,3 +12,6 @@
   - Hyphenation and dash/hyphen types
   - Kerning
   - OpenType font features and font-feature-settings property
+
+###Links:
+[12 Most-Wanted Sublime Text Tips And Tricks](http://www.hongkiat.com/blog/sublime-text-tips/)
