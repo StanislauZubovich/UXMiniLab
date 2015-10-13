@@ -40,20 +40,3 @@
 
 ###Links
 [Хороший учебник по JS c заданиями - learn.javascript.ru](http://learn.javascript.ru/)
-
-
-    "title": "Парсер Esprima ",
-    "href": "http://esprima.org/demo/parse.html"
-  }, {
-    "title": "JS Fuck",
-    "href": "http://www.jsfuck.com/"
-  },{
-    "title": "Quine",
-    "href": "http://en.wikipedia.org/wiki/Quine_(computing)"
-  }, {
-    "title": "The Google Cross-Site Scripting Challenge",
-    "href": "https://xss-game.appspot.com/"
-  }, {
-    "title": "Barnaby Jack",
-    "href": "http://en.wikipedia.org/wiki/Barnaby_Jack"
-  }],
