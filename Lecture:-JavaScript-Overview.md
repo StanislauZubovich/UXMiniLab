@@ -39,16 +39,9 @@
   - Eval
 
 ###Links
-  "links": [{
-    "title": "Хороший учебник по JS c заданиями - learn.javascript.ru",
-    "href": "http://learn.javascript.ru/"
-  },{
-    "title": "Анализатор качества кода - jshint ",
-    "href": "http://www.jshint.com/"
-  }, {
-    "title": "И его более продвинутый аналог- eslint ",
-    "href": "https://github.com/eslint/eslint"
-  }, {
+[Хороший учебник по JS c заданиями - learn.javascript.ru](http://learn.javascript.ru/)
+
+
     "title": "Парсер Esprima ",
     "href": "http://esprima.org/demo/parse.html"
   }, {
