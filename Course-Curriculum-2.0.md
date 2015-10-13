@@ -18,6 +18,7 @@
 14. [Functions. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
 15. [Inheritance in JavaScript. Brush-up.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Inheritance-in-JavaScript)
 16. [Data Structures. Workshop.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Data-Structures.-Workshop.)
+17. [Use Strict. Object.*](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Use-strict.-Object.*)
 
 
 Future:
