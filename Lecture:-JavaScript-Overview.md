@@ -37,3 +37,30 @@
   - Constants
   - Comments
   - Eval
+
+###Links
+  "links": [{
+    "title": "Хороший учебник по JS c заданиями - learn.javascript.ru",
+    "href": "http://learn.javascript.ru/"
+  },{
+    "title": "Анализатор качества кода - jshint ",
+    "href": "http://www.jshint.com/"
+  }, {
+    "title": "И его более продвинутый аналог- eslint ",
+    "href": "https://github.com/eslint/eslint"
+  }, {
+    "title": "Парсер Esprima ",
+    "href": "http://esprima.org/demo/parse.html"
+  }, {
+    "title": "JS Fuck",
+    "href": "http://www.jsfuck.com/"
+  },{
+    "title": "Quine",
+    "href": "http://en.wikipedia.org/wiki/Quine_(computing)"
+  }, {
+    "title": "The Google Cross-Site Scripting Challenge",
+    "href": "https://xss-game.appspot.com/"
+  }, {
+    "title": "Barnaby Jack",
+    "href": "http://en.wikipedia.org/wiki/Barnaby_Jack"
+  }],
