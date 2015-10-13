@@ -1,4 +1,4 @@
-### Trainer: Andrei Vouchanka
+### Trainer: Dzmitry Herasimov, Andrei Vouchanka
 
 * Use strict
   * how to invoke
