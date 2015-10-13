@@ -3,6 +3,7 @@
 ### Slides
 http://rolling-scopes.github.io/slides/school/object-methods/#/
 
+### Content
 * Use strict
   * how to invoke
   * changes
