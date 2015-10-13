@@ -1,4 +1,8 @@
 #### Trainer: Andrei Vouchanka
+
+### Slides
+http://rolling-scopes.github.io/slides/school/event-loop/#/
+
 ###### DOM
 * What is DOM?
 * `Node` props & methods
