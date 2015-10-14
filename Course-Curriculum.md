@@ -9,12 +9,6 @@ https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
    * working with DOM (manipulation, events, animation)
    * plugins
    * Practical taks (Towers of hanoi)
-19. Animation.  **(R40)** :computer: 
-   * CSS3 Transitions
-   * CSS3 Transforms
-   * requestAnimationFrame
-   * Performance issues
-   * Practical task
 20. Project structure and asset management. :computer:
    * Node.js
    * NPM
