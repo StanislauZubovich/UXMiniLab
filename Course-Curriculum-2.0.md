@@ -35,12 +35,12 @@
   - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
 27. [HTTP](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTTP)
 28. [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises) 
+29. Chrome Dev Tools. ESLint. Yeoman.
+  - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
+  - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
+  - [Yeoman and WebApp Generator in depth](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Yeoman-and-WebApp-Generator-in-depth)
 
-Future:
-- [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
-- [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises)
-- [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
-- [Yeoman and WebApp Generator in depth](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Yeoman-and-WebApp-Generator-in-depth)
+
 
 Distant future:
 - [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
