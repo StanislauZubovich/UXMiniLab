@@ -1,8 +1,8 @@
 ###Trainer: Andrei Yanovich
 
 ###Slides
-http://andrei-yanovich.github.io/ajax-talk/#/
-http://andrei-yanovich.github.io/promise-talk/#/
+- http://andrei-yanovich.github.io/ajax-talk/#/
+- http://andrei-yanovich.github.io/promise-talk/#/
 
 ###Content
 * Ajax
