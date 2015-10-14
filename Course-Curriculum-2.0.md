@@ -27,7 +27,7 @@
   - [Animations](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Animations)
 22. [jQuery. Part I](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 22. [jQuery. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
-23. [Project structure and asset management](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Project-structure-and-asset-management)
+23. [Project structure and asset management. Workshop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Project-structure-and-asset-management)
 
 
 Future:
