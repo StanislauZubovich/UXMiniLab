@@ -57,7 +57,7 @@
 40. Node.js
 41. Node.js
 
-Next course:
+###Next course:
 - [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
 - [CSS Style Guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Style-Guide)
 
