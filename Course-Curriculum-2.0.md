@@ -22,14 +22,15 @@
 18. [Array.prototype.*](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Array.prototype.*)
 19. [DOM](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-DOM.-Events.)
 20. [DOM Events](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-DOM.-Events.)
-21. [Event Loop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Event-Loop)
+21. Event loop. Animations 
+  - [Event Loop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Event-Loop)
+  - [Animations](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Animations)
 
 
 Future:
 - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
 - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
 - [ES6 Modules](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6-Modules)
-- [Animations](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Animations)
 - [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises)
 - [jQuery](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 - [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)
