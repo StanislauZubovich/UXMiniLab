@@ -6,6 +6,11 @@
 
 ###Content
 1. Network basics
+  - Bandwidth and Latency
+  - General HTTP Request/Response lifecycle
+  - SPDY
+  - Google PageSpeed Insights
+  - Google WebPageTest
 2. Browser Internals
   - Page render cycle
   - Frame budget
