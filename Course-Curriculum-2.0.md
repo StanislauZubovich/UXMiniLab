@@ -44,10 +44,10 @@
   - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
   - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
   - [Yeoman and WebApp Generator in depth](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Yeoman-and-WebApp-Generator-in-depth)
-31. Testing JavaScript Applications
+31. Testing JavaScript Applications - [Slides](http://rolling-scopes.github.io/slides/school/jstesting-talk/)
 32. Testing JavaScript Applications. :computer: 
 33. Iterator implementation. CSS preprocessors. Stylus. :computer:
-34. AngularJS Basics
+34. AngularJS Basics - [All Slides](http://rolling-scopes.github.io/slides/school/angular_baranoshnik.zip)
   - Online course: https://www.codeschool.com/courses/shaping-up-with-angular-js
 35. AngularJS. IoC 
 36. AngularJS. Directives
