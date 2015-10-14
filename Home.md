@@ -1,4 +1,4 @@
-###Программа курса
+###Программа курса:
 https://github.com/rolling-scopes/front-end-course/wiki/Course-Curriculum-2.0 
 
 ###FAQ 
