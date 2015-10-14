@@ -44,11 +44,29 @@
   - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
   - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
   - [Yeoman and WebApp Generator in depth](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Yeoman-and-WebApp-Generator-in-depth)
+31. Testing JavaScript Applications
+32. Testing JavaScript Applications. :computer: 
+33. Iterator implementation. CSS preprocessors. Stylus. :computer:
+34. AngularJS Basics
+  - Online course: https://www.codeschool.com/courses/shaping-up-with-angular-js
+35. AngularJS. IoC 
+36. AngularJS. Directives
+37. AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource)
+38. AngularJS. Tests 
+39. Brush-up
+40. Node.js
+41. Node.js
 
-
-Distant future:
+Next course:
 - [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
 - [CSS Style Guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Style-Guide)
+
+```
+TODO
+* Implementation of common JavaScript patterns (Mixin, Bind, Extend, Proxy, Throttling, Debounce)
+* Application Architecture
+* Design Patterns ???
+```
 
 ###Video Playlist
 https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
