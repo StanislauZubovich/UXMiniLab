@@ -2,12 +2,6 @@
 https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
 
 ###Lectures
-21. How browser works. Paint and Compositing
-   * Page Render Cycle
-   * Frame budget
-   * Paint
-   * Software mode vs Accelerated compositing mode
-   * Profiling tools
 22. Network Basics. HTTP. WebSockets Basics + Workshop :computer: 
 23. Ajax. Promise Pattern. Practical task **(R40)** :computer:
    
@@ -16,12 +10,6 @@ https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
    * Websocket API
    * Typed arrays
    * Сompetition
-25. Network. **(R40)**
-   * Bandwidth and Latency
-   * General HTTP Request/Response lifecycle
-   * SPDY
-   * Google PageSpeed Insights
-   * Google WebPageTest
 26. Testing JavaScript Applications
 27. Testing JavaScript Applications. :computer: 
 28. Iterator implementation. CSS preprocessors. Stylus. :computer:
