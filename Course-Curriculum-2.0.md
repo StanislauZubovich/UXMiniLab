@@ -25,6 +25,8 @@
 21. Event loop. Animations 
   - [Event Loop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Event-Loop)
   - [Animations](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Animations)
+22. [jQuery. Part I](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
+22. [jQuery. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 
 
 Future:
@@ -32,7 +34,6 @@ Future:
 - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
 - [ES6 Modules](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6-Modules)
 - [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises)
-- [jQuery](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 - [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)
 - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
 - [Yeoman and WebApp Generator in depth](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Yeoman-and-WebApp-Generator-in-depth)
