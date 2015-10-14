@@ -35,6 +35,10 @@
   - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
 27. [HTTP](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTTP)
 28. Разбор домашек. WebSocket Challenge.
+  - What is websocket?
+  - Websocket API
+  - Typed arrays
+  - Сompetition
 29. [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises) 
 30. Chrome Dev Tools. ESLint. Yeoman.
   - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
