@@ -23,23 +23,7 @@ https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
    * Profiling tools
 22. Network Basics. HTTP. WebSockets Basics + Workshop :computer: 
 23. Ajax. Promise Pattern. Practical task **(R40)** :computer:
-   * Ajax
-     * WTF is ajax (sync vs async web app model)
-     * History
-     * XHR api (content types, status, readyState, onreadystatechange, props, methods)
-     * JQuery ajax
-     * Same origin policy
-     * JSONP
-     * CORS
-     * COMET, WS
-     * pros/cons
-   * Promise:
-     * JQuery deferreds API
-     * Examples
-     * Promise
-     * Promise states
-     * Promise API
-     * Example with ajax
+   
 24. WebSocket Challenge :computer: 
    * What is websocket?
    * Websocket API
