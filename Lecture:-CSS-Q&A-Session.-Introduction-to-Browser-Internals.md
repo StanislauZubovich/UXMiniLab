@@ -1,5 +1,8 @@
 ###Trainers: Pavel Guzikov, Maria Putyrskaya
 
+###Slides
+http://rolling-scopes.github.io/slides/school/uxd_basics_short.pptx
+
 ###Content
 1. Introduction to Browser Internals
 - HTML Source/DOM Tree/Render Tree
