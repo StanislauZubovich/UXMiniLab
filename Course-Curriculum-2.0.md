@@ -27,13 +27,14 @@
   - [Event Loop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Event-Loop)
   - [Animations](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Animations)
 22. [jQuery. Part I](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
-22. [jQuery. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
-23. [Project structure and asset management. Workshop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Project-structure-and-asset-management)
-24. [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)
-25. Dependency managment
+23. [jQuery. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
+24. [Project structure and asset management. Workshop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Project-structure-and-asset-management)
+25. [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)
+26. Dependency managment
   - [ES6 Modules](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6-Modules)
   - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
-26. [HTTP](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTTP)
+27. [HTTP](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTTP)
+28. [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises) 
 
 Future:
 - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
