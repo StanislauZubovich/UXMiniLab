@@ -1,7 +1,10 @@
 #### Trainer: Andrei Vouchanka
 
-### Slides
-http://rolling-scopes.github.io/slides/school/event-loop/#/
+###Slides:
+- [DOM](http://rolling-scopes.github.io/slides/school/dom)
+- [DOM Workshop](https://github.com/rolling-scopes-school/dom-workshop)
+- [DOM Events](http://rolling-scopes.github.io/slides/school/dom-events)
+- [DOM Events Workshop](https://github.com/rolling-scopes-school/dom-events.git)
 
 ### Content
 ###### DOM
@@ -28,13 +31,8 @@ http://rolling-scopes.github.io/slides/school/event-loop/#/
 * Event capturing and bubbling
 * Event delegation
 
-###### Event Loop
-* Call stack
-* Event Loop
-* Callback queue
-* Web APIs
-
 ###Links
-- http://2014.jsconf.eu/speakers/philip-roberts-what-the-heck-is-the-event-loop-anyway.html
-- [Why is setTimeout(fn, 0) sometimes useful? (читать до конца)](http://stackoverflow.com/questions/779379/why-is-settimeoutfn-0-sometimes-useful)
+- [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
+- [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
+- [An introduction to DOM Events](http://www.smashingmagazine.com/2013/11/12/an-introduction-to-dom-events/)
 - [Event capturing/bubbling explanation](https://www.youtube.com/watch?v=0sfPDJiMTXk)
