@@ -34,7 +34,6 @@ Future:
 - [jQuery](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 - [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)
 - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
-- [Use strict, Object.*](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Use-strict.-Object.*)
 - [Yeoman and WebApp Generator in depth](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Yeoman-and-WebApp-Generator-in-depth)
 
 Distant future:
