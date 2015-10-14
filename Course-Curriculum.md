@@ -2,12 +2,6 @@
 https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
 
 ###Lectures
-20. Project structure and asset management. :computer:
-   * Node.js
-   * NPM
-   * Gulp
-   * Yeoman
-   * Practical task
 21. How browser works. Paint and Compositing
    * Page Render Cycle
    * Frame budget
