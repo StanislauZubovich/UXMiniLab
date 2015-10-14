@@ -38,7 +38,7 @@
   - What is websocket?
   - Websocket API
   - Typed arrays
-  - Сompetition
+  - Сompetition [Slides](http://rolling-scopes.github.io/slides/school/ws/WebSockets.pptx)
 29. [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises) 
 30. Chrome Dev Tools. ESLint. Yeoman.
   - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
