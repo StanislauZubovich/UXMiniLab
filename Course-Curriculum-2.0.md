@@ -45,3 +45,6 @@
 Distant future:
 - [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
 - [CSS Style Guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Style-Guide)
+
+###Video Playlist
+https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
