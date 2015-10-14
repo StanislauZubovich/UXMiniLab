@@ -9,5 +9,4 @@ http://rolling-scopes.github.io/slides/school/uxd_basics_short.pptx
   - Repaints and reflows
   - Layout architecture
   - Bad and best practices
-
 2. Q&A. Разбор ошибок
