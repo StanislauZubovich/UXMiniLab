@@ -33,7 +33,7 @@
 25. Dependency managment
   - [ES6 Modules](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6-Modules)
   - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
-
+26. [HTTP](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTTP)
 
 Future:
 - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
