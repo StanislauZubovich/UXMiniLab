@@ -2,13 +2,6 @@
 https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
 
 ###Lectures
-
-18. DOM. jQuery. Practical Task **(R40)**
-   * Why to use it?
-   * Selectors
-   * working with DOM (manipulation, events, animation)
-   * plugins
-   * Practical taks (Towers of hanoi)
 20. Project structure and asset management. :computer:
    * Node.js
    * NPM
