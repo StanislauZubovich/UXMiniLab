@@ -22,3 +22,7 @@
   - [Slides](https://docs.google.com/presentation/d/1MtDBNTH1g7CZzhwlJ1raEJagA8qM3uoV7ta6i66bO2M/present?slide=id.g3eb97ca8f_19)
   - [Video](https://www.youtube.com/watch?v=R8W_6xWphtw&feature=youtu.be)
 - [WebPageTest lightning demo](https://www.youtube.com/watch?v=4Q9e58_08E4)
+
+###Online Courses
+https://www.udacity.com/course/browser-rendering-optimization--ud860
+https://developers.google.com/web/fundamentals/performance/?hl=en
