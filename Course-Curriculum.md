@@ -3,11 +3,6 @@ https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
 
 ###Lectures
 
-12. Data Structures. Workshop - Linked List implementation. 
-14. Object.\*, Array.prototype.\*, Strict mode. 
-15. Inheritance, Array.prototype.\*, Practical task (function make) **(IMAGURU)**
-16. DOM Basics **(R40)**
-17. DOM Event Handling **(R40)**
 18. DOM. jQuery. Practical Task **(R40)**
    * Why to use it?
    * Selectors
