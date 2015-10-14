@@ -34,7 +34,7 @@ http://rolling-scopes.github.io/slides/school/HTTP
   - Session
   - HTTPS
 
-6. COnclusion
+6. Conclusion
   - Tips & Tricks
   - Useful programs & commands 
   - What to read
