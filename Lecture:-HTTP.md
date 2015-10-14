@@ -5,18 +5,18 @@ http://rolling-scopes.github.io/slides/school/HTTP
 
 ###Content
 1. History and basic structure of WWW
-  - CERN, Tim Berners Lee, Hakon Wium Lee
+  - CERN, Sir Timothy John «Tim» Berners-Lee, Håkon Wium Lie
   - Client-Server model
   - DNS
-  - TCP-IP; Winstone Sefr
+  - TCP-IP; Vinton Gray “Vint” Cerf
   - Model OSI
 
 2. Structure of HTTP protocol
   - Methods
-  - P  arameters
+  - Parameters
   - Cookies
   - Headers
-  - Status codes"
+  - Status codes
 
 3. HTTP features
   - Simple
