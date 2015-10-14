@@ -20,6 +20,9 @@
 16. [Data Structures. Workshop.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Data-Structures.-Workshop.)
 17. [Use Strict. Object.*](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Use-strict.-Object.*)
 18. [Array.prototype.*](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Array.prototype.*)
+19. [DOM](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-DOM.-Events.)
+20. [DOM Events](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-DOM.-Events.)
+21. [Event Loop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Event-Loop)
 
 
 Future:
@@ -30,11 +33,9 @@ Future:
 - [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises)
 - [jQuery](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 - [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)
-- [DOM. Event Loop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-DOM.-Event-loop)
 - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
 - [Use strict, Object.*](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Use-strict.-Object.*)
 - [Yeoman and WebApp Generator in depth](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Yeoman-and-WebApp-Generator-in-depth)
-
 
 Distant future:
 - [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
