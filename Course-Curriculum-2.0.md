@@ -45,7 +45,7 @@
   - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
   - [Yeoman and WebApp Generator in depth](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Yeoman-and-WebApp-Generator-in-depth)
 31. [Lecture: Testing JavaScript Applications](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Testing-Javascript-Applications) - [Slides](http://rolling-scopes.github.io/slides/school/jstesting-talk/)
-32. Testing JavaScript Applications. :computer: 
+32. [Testing JavaScript Applications.](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-Testing-Javascript-Applications) :computer: 
 33. [Iterator implementation. CSS preprocessors. Stylus.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Iterator-implementation.-CSS-preprocessors.-Stylus.)
 34. AngularJS Basics - [All Slides](http://rolling-scopes.github.io/slides/school/angular_baranoshnik.zip)
   - Online course: https://www.codeschool.com/courses/shaping-up-with-angular-js
