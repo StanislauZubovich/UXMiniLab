@@ -1,4 +1,4 @@
-###Trainer: Dzmitry Varabei
+###Trainer: Dzmitry Varabei, Ivan Akulov
 
 ###Slides
 - [How browser works. Paint and Compositing](http://rolling-scopes.github.io/slides/school/chrome-paint-and-compositing/ChromeInternalsPaint.pptx)
