@@ -29,5 +29,6 @@
 - [WebPageTest lightning demo](https://www.youtube.com/watch?v=4Q9e58_08E4)
 
 ###Online Courses
-https://www.udacity.com/course/browser-rendering-optimization--ud860
-https://developers.google.com/web/fundamentals/performance/?hl=en
+- https://www.udacity.com/course/browser-rendering-optimization--ud860
+- https://www.udacity.com/course/website-performance-optimization--ud884
+- https://developers.google.com/web/fundamentals/performance/?hl=en
