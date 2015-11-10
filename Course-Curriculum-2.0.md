@@ -29,7 +29,7 @@
 22. [jQuery. Part I](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 23. [jQuery. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 24. [Project structure and asset management. Workshop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Project-structure-and-asset-management)
-25. [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)
+25. Critical rendering path
 26. Dependency managment
   - [ES6 Modules](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6-Modules)
   - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
@@ -56,6 +56,8 @@
 39. Brush-up
 40. Node.js
 41. Node.js
+
+X. [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)
 
 ###Next course:
 - [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
