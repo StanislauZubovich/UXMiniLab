@@ -6,7 +6,7 @@ https://docs.google.com/presentation/d/1VBKZ9OzOlJ1jl7Fb-REtP_ijVBS-XZwLrciW2QrO
 ###Content
 1. Lecture
   - Node.js and require
-  - ES6 Modules (very brief overview)
-  - NPM and package.json 
+  - NPM and package.json
+  - Bower and bower.json
   - Gulp
 2. Workshop
