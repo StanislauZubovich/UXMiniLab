@@ -3,6 +3,7 @@
 ###Slides
 - [How browser works. Paint and Compositing](http://rolling-scopes.github.io/slides/school/chrome-paint-and-compositing/ChromeInternalsPaint.pptx)
 - [Network Basics](http://dzmitry-varabei.github.io/front-end-course/network.pptx)
+- http://ivanakulov.name/talks/web-perf/
 
 ###Content
 1. Network basics
