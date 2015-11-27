@@ -62,12 +62,12 @@ X. [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/L
 ###Next course:
 - [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
 - [CSS Style Guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Style-Guide)
+- [Design Patterns](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Design-Patterns)
 
 ```
 TODO
 * Implementation of common JavaScript patterns (Mixin, Bind, Extend, Proxy, Throttling, Debounce)
 * Application Architecture
-* Design Patterns ???
 ```
 
 ###Video Playlist
