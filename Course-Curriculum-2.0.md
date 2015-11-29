@@ -57,8 +57,8 @@
 40. Node.js
 41. Node.js
 
-X. [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)
-X. [ES6](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6)
+- X. [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works) 
+- X. [ES6](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6)  
 
 ###Next course:
 - [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
