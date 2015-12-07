@@ -7,6 +7,7 @@
 * Where to start?
     - modules & angular.module.
     - bootstrapping (ng-app, angular.bootstrap).
+    - $rootScope.
     - markup extensions. Declarative & imperative programming.
 * Controllers
     - data binding.
