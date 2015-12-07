@@ -49,8 +49,8 @@
 33. [Iterator implementation. CSS preprocessors. Stylus.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Iterator-implementation.-CSS-preprocessors.-Stylus.)
 34. [AngularJS Basics](https://github.com/rolling-scopes/front-end-course/wiki/Angular-JS-Basics) - [All Slides](http://rolling-scopes.github.io/slides/school/angular_baranoshnik.zip)
   - Online course: https://www.codeschool.com/courses/shaping-up-with-angular-js
-35. [AngularJS. IoC]()
-36. AngularJS. Directives
+35. [AngularJS. IoC](https://github.com/rolling-scopes/front-end-course/wiki/Angular-JS.-part2)
+36. [AngularJS. Directives](https://github.com/rolling-scopes/front-end-course/wiki/Angular-JS.-part-3.-Directives)
 37. AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource)
 38. AngularJS. Tests 
 39. Brush-up
