@@ -1,3 +1,5 @@
+*continuation from 1st lecture - 
+    - $watchers. all kinds of watchers =)
 * IoC, DI.
     - basics.
     - angular $injector & DI.
