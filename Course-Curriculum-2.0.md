@@ -47,9 +47,9 @@
 31. [Lecture: Testing JavaScript Applications](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Testing-Javascript-Applications) - [Slides](http://rootthelure.github.io/js-testing-talk/#/)
 32. [Workshop: Testing JavaScript Applications.](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-Testing-Javascript-Applications) :computer: 
 33. [Iterator implementation. CSS preprocessors. Stylus.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Iterator-implementation.-CSS-preprocessors.-Stylus.)
-34. AngularJS Basics - [All Slides](http://rolling-scopes.github.io/slides/school/angular_baranoshnik.zip)
+34. [AngularJS Basics](https://github.com/rolling-scopes/front-end-course/wiki/Angular-JS-Basics) - [All Slides](http://rolling-scopes.github.io/slides/school/angular_baranoshnik.zip)
   - Online course: https://www.codeschool.com/courses/shaping-up-with-angular-js
-35. AngularJS. IoC 
+35. [AngularJS. IoC]()
 36. AngularJS. Directives
 37. AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource)
 38. AngularJS. Tests 
