@@ -46,7 +46,7 @@
   - [Yeoman and WebApp Generator in depth](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Yeoman-and-WebApp-Generator-in-depth)
 31. [Lecture: Testing JavaScript Applications](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Testing-Javascript-Applications) - [Slides](http://rootthelure.github.io/js-testing-talk/#/)
 32. [Workshop: Testing JavaScript Applications.](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-Testing-Javascript-Applications) :computer: 
-33. [Iterator implementation. CSS preprocessors. Stylus.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Iterator-implementation.-CSS-preprocessors.-Stylus.)
+33. [Iterator implementation.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Iterator-implementation.-CSS-preprocessors.-Stylus.)
 34. [AngularJS Basics](https://github.com/rolling-scopes/front-end-course/wiki/Angular-JS-Basics) - [All Slides](http://rolling-scopes.github.io/slides/school/angular_baranoshnik.zip)
   - Online course: https://www.codeschool.com/courses/shaping-up-with-angular-js
 35. [AngularJS. IoC](https://github.com/rolling-scopes/front-end-course/wiki/Angular-JS.-part2)
