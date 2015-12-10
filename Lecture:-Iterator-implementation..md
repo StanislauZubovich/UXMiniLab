@@ -34,7 +34,7 @@ var iterator = new Iterator(array, config);
 iterator.current() // --> [0, 1, 2]
 iterator.forward() // --> [1, 2, 3]
 iterator.jumpTo(5) // --> undefined
-iterator.current() // --> [4, 5, 6]
+iterator.current() // --> [5, 6, 7]
 iterator.backward()// --> [3, 4, 5]
 
 iterator.jumpTo(9)
