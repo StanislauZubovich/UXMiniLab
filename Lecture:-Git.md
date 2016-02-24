@@ -3,6 +3,9 @@
 ###Slides
 - http://dzmitry-varabei.github.io/front-end-course/git-story/#/
 
+###Useful links
+http://alistapart.com/article/the-art-of-the-commit
+
 ###Git Basics
   - ...
   - Адекватные имена коммитов
