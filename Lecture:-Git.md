@@ -2,6 +2,7 @@
 
 ###Slides
 - http://dzmitry-varabei.github.io/front-end-course/git-story/#/
+- TBD
 
 ###Useful links
 http://alistapart.com/article/the-art-of-the-commit
