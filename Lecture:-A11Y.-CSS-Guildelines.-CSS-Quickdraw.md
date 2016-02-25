@@ -1,14 +1,13 @@
 ###Trainers: Nastassia Tayanouskaya, Andrei Vouchanka
 
 ###Content
-1. Examples of real projects. 
-  - Responsibilities of HTML Coder
-  - Browser List
-  - Using CMS
-  - Perfomance improvements
-  - Adaptive Web Design
-  - Testing
+1. A11Y
+  - Introduction to accessibility
+  - Techniques you can implement today
+  - Introduction to screen readers and ARIA
+  - Testing tips and tricks&tricks
 2. CSS Quickdraw Challenge
+3. CSS Guildelines
 
 ###Slides
 https://docs.google.com/presentation/embed?id=1PKLEohYH1SNxY_sJeX2OxplNthZK0XRAryXaTQs9ALY
