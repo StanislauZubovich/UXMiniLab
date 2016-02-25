@@ -1,4 +1,4 @@
-###Trainer: Oleg Petrenko
+###Trainer: Дарья Сабинина и Сергей Шаляпин 
 
 ###Slides
 http://slides.com/olegpetrenko/deck#/
