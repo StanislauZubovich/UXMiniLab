@@ -1,4 +1,4 @@
-###Trainer: Maria Putyrskaya
+###Trainer: Станислав Зубович
 ###Workshop agenda
 
 1. Grafics formats
