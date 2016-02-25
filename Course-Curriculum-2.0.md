@@ -11,7 +11,7 @@
 8. [Workshop: HTML Forms. Images](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-HTML-Forms.-Images)
 9. [A11Y. CSS Guidelines. CSS Quickdraw](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-A11Y.-CSS-Guildelines.-CSS-Quickdraw)
 10. [User Experience Best Practices](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-User-Experience-Best-Practices)
-11. [CSS Q&A Session. Introduction to Browser Internals](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Q&A-Session.-Introduction-to-Browser-Internals)
+11. [CSS Q&A Session](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Q&A-Session.-Most-frequently-asked-interview-questions)
 12. [JavaScript overview](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-JavaScript-Overview)
   - __Home task__ - https://www.codeschool.com/courses/discover-devtools
 13. Functions and Scope
