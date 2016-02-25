@@ -1,4 +1,4 @@
-###Trainers: Oleg Petrenko, Maria Putyrskaya
+###Trainers: Станислав Зубович
 
 ###Slides
   - [HTML DAY II](http://slides.com/olegpetrenko/deck-1#/)
