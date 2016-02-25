@@ -1,4 +1,4 @@
-###Trainers: Nastassia Tayanouskaya, Andrei Vouchanka
+###Trainers: Станислав Зубович, Александр Кузнецов, Андрей Волченко
 
 ###Content
 1. A11Y
