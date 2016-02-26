@@ -1,4 +1,6 @@
-###Dependency Injection
+### Trainer: Maksim Bartoshyk
+ 
+Dependency Injection
 https://www.youtube.com/watch?v=IKD2-MAkXyQ
 
 1. JavaScript Design Patterns
