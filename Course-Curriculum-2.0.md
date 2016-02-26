@@ -57,12 +57,11 @@
 39. Brush-up
 40. Node.js
 41. Node.js
+42. [Software-Development-Process](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Software-Development-Process)
+43. [Design Patterns](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Design-Patterns)
 
 - X. [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works) 
 - X. [ES6](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6)  
-
-###Next course:
-- [Design Patterns](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Design-Patterns)
 
 ```
 TODO
