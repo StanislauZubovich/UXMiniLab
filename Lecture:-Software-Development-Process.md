@@ -1,3 +1,5 @@
+### Trainer: Anton Kulikov
+
 1. Requirements source
    - Business goals
    - Stakeholders
