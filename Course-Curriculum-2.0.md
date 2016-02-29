@@ -70,4 +70,5 @@ TODO
 ```
 
 ###Video Playlist
-https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
+- https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
+- https://www.youtube.com/playlist?list=PLe--kalBDwjgwrEDcOKXba_v6ciHoq_8H
