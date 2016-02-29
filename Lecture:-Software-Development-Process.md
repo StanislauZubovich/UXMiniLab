@@ -26,14 +26,14 @@
          - JIRA
          - KB
          - Repository
-     - Delivery process
-         - CI & CD
-         - Environments
-             - Dev/QA
-             - PPE/UAT/PROD
-         - Build
-             - Unit Tests
-             - Static Analysis
-         - Release 
-             - Integration Tests
-             - End-user Tests
+3. Delivery process
+    1. CI & CD
+    2. Environments
+        - Dev/QA
+        - PPE/UAT/PROD
+    3. Build
+        - Unit Tests
+        - Static Analysis
+    4. Release 
+        - Integration Tests
+        - End-user Tests
