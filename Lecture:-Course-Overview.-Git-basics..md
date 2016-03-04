@@ -1,8 +1,7 @@
-###Trainer: Dzmitry Varabei  
+###Trainer: Dzmitry Varabei, Andrei Vouchanka
 
 ###Slides:
 - [Course overview](http://dzmitry-varabei.github.io/front-end-course/lecture-0-course-intro/#/)
-- [Online education](http://dzmitry-varabei.github.io/online-education/#/)
 - [Intro to front-end](http://dzmitry-varabei.github.io/js-for-dummies/#/)
 - [Basic Tools](http://dzmitry-varabei.github.io/front-end-course/lecture-0-basic-tools/basic_tools.pptx)
 - [Git Story](http://dzmitry-varabei.github.io/front-end-course/git-story/#/)
