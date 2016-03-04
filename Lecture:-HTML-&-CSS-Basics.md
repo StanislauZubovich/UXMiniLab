@@ -1,46 +1,46 @@
 ###Trainer: Дарья Сабинина и Сергей Шаляпин 
 
 ###Slides
-http://slides.com/olegpetrenko/deck#/
+  - http://slides.com/olegpetrenko/deck#/
+  - http://slides.com/ra_levis/html_css_basics
 
 ###Content
-1. ВВЕДЕНИЕ
-  - Что такое html/css
-  - Краткая история
-  - Примеры красивых сайтов
-  - Война браузеров (кратко)
+1. Intro
+  - What is html/css
+  - Short history
+  - Browser wars (briefly)
 
 2. HTML
-  - Структура документа
-  - Doctype (зачем нужен и какой использовать)
+  - Tag (tag structure)
+  - Document Structure
+  - Doctype (different styles)
   - Структура html
-  - Подключение css (выбор устройств при подключении css, условные комментарии для ИЕ)
-  - Подключение js
-  - Тэги
-  - Теги по назначению
-  - html5 теги, поддержка (фикс) в ИЕ
-  - Типы тегов и их особенности (inline, block, inline-block)
-  - Правила вложения
-  - Обязательные атрибуты
+  - CSS applying
+  - JS applying
+  - Tags classification by purpose
+  - html5 tags
+  - Tags classification by block / inline
+  - Mandatory attributes
   - data-attributes
-  - Валидация
-  - Что это такое?
-  - Какие проверки проходит html код во время валидации?
-  - Плюсы/Минусы
-  - Мнение лектора. Использовать?
-  - Нормальный поток
-  - Порядок элементов при нормальном потоке
+  - Normal flow
+  - Elements sequence with normal flow
+  - Validation
+  - What tests does HTML code pass through
+  - Is it good ideas to use validation
 
 3. CSS
-  - Синтаксис
-  - Селекторы
-  - *
-  - tag-name
-  - #id-name
-  - .class-name
-  - elem elem
-  - elem > elem
-  - elem + elem
-  - elem ~ elem
-  - elem[attr], elem[attr=’value’], elem[attr^=’value’], elem[attr$=’value’]
-  - elem[data-name=’value’]
+  - Syntax
+  - Selectors
+  - single
+  - multiple
+  - examples
+      - *
+      - tag-name
+      - #id-name
+      - .class-name
+      - elem elem
+      - elem > elem
+      - elem + elem
+      - elem ~ elem
+      - elem[attr], elem[attr=’value’], elem[attr^=’value’], elem[attr$=’value’]
+      - elem[data-name=’value’]
