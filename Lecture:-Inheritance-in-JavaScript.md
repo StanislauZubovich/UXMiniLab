@@ -34,6 +34,7 @@
   - private members
   - extending without inheriting
 7. Parasitic inheritance 
+8. ES6 Classes __TBD__
 
 ###Links
 - [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
