@@ -1,4 +1,4 @@
-###Trainers: Станислав Зубович
+###Trainer: Stanislau Zubovich
 
 ###Slides
   - [HTML DAY II](http://slides.com/olegpetrenko/deck-1#/)
@@ -7,65 +7,69 @@
   - [Semantics](http://slides.com/maria_putyrskaya/semantics#/)
 
 ###Video
-- [Часть 1](https://www.youtube.com/watch?v=MJAqvRK6hg8)
-- [Часть 2](https://www.youtube.com/watch?v=zTpaqLBeOOY)
+- [Part 1](https://www.youtube.com/watch?v=MJAqvRK6hg8)
+- [Part 2](https://www.youtube.com/watch?v=zTpaqLBeOOY)
 
-###Тренируем знания селекторов:
+###Improve your CSS selectors skills:
 http://flukeout.github.io/
 
 ###Content
 1. CSS
-  - Специфичность
-    - Вес селекторов
-    - Почему стараться не использовать инлайновые стили и !important
-  - Свойства и значения
-    - Краткая запись
-  - Псевдоклассы и псевдоэлементы
-    - before/after (обязательное свойство content, особенности в js)
+  - Specificity
+    - Weight of selectors
+    - Why you shouldn't use inline styles and !important
+  - Properties and Values
+    - How to shorten your code
+  - Pseudo-Classes and Pseudo-Elements
+    - before/after (required property - content, features in js)
     - hover/focus
     - first-child/last-child, first-letter/first-line, nth-child, only-child, not
-    - Как, где использовать?
-  - Единицы измерения
+    - How and when should I use it?
+  - Units
     - px, em, rem, %
     - mm, cm, pt, ex
     - vw, vh, vmin
     - px vs. em
     - em vs. %
     - em vs. rem
-    - Когда какие единицы измерения использовать?
-  - Стили браузера
+    - When should I use all these units?
+  - Browser styles
     - Reset
     - Normalize
-  - Вендорные префиксы
+  - Vendor Prefixes
   - Preprocessors
-    - В сравнительном виде less, sass, stylus
-    - Преимущества
-    - Решение проблемы с префиксами
-2. HTML + (!Важно)
-  - Боксовая модель
+    - Less, sass and stylus comparison
+    - Benefits
+    - How to fix prefix problem
+2. HTML 
+  - Box Model
     - Width/Height
     - Paddings
     - Borders
     - Margins
     - box-sizing
-  - float и clear
-  - position (z-index)
-    - static
-    - relative
-    - absolute
-    - fixed
-    - наложение слоев, z-index
+  - Float and Clear
+  - Position 
+    - Static
+    - Relative
+    - Absolute
+    - Fixed
+    - Applying the layers
+    - Z-index
+
 3. CSS3
   - border-radius
   - box-shadow, text-shadow
-  - rgba, способы задания цвета
-  - gradient
-  - transition/transform
-4. СЕМАНТИКА
-  - Семантичный код
-    - Применения элементов по назначению
-    - Именование классов
-    - Комбинации элементов
+  - RGBA
+  - Gradient
+  - Transition/Transform
+  - How to set a color
+
+4. Semantics
+  - Semantic code
+    - Element and its properties
+    - How to name classes
+    - Combinations of elements
   - SEO friendly 
   - Сode style
   - ID vs. Class
