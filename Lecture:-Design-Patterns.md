@@ -3,6 +3,8 @@
 Dependency Injection
 https://www.youtube.com/watch?v=IKD2-MAkXyQ
 
+http://misko.hevery.com/2008/08/17/singletons-are-pathological-liars/
+
 1. JavaScript Design Patterns
   - Constructor Pattern
   - Module Pattern
