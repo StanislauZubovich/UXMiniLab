@@ -4,18 +4,14 @@
 
 ![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/slides.png)  **Slides:**
 
-[Slides 1](http://anastasia-tayanovskaya.github.io/css-recipes/)
- 
-[Slides 2](https://github.com/Anastasia-Tayanovskaya/css-recipes)
+[Slides 1](http://anastasia-tayanovskaya.github.io/css-recipes/)                [Slides 2](https://github.com/Anastasia-Tayanovskaya/css-recipes)
 
 ***
 
 
 ![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/video.png)   **Video**
 
-[Video 1](https://www.youtube.com/watch?v=DbutriT37aI)
-
-[Video 2](https://youtu.be/8IdwZzGeErQ?t=3)
+[Video 1](https://www.youtube.com/watch?v=DbutriT37aI)  [Video 2](https://youtu.be/8IdwZzGeErQ?t=3)
 
 ***
 
