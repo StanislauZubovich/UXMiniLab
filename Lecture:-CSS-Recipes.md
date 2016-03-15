@@ -1,26 +1,41 @@
 ###Trainer: Nastassia Tayanouskaya
-###Slides:
-http://anastasia-tayanovskaya.github.io/  
-или тут:  
-https://github.com/Anastasia-Tayanovskaya/css-recipes
 
-###Video
-https://www.youtube.com/watch?v=DbutriT37aI
-https://www.youtube.com/watch?v=8IdwZzGeErQ
+***
 
-###Content
+![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/slides.png)  **Slides:**
 
-  - Центрирование блочного элемента по горизонтали
-  - Центрирование текста по горизонтали
-  - Выравнивание inline-block элементов по вертикали (1) 
-  - Выравнивание inline-block элементов по вертикали (2) 
-  - Центрирование блочного элемента с заданными параметрами по горизонтали и вертикали (1)
-  - Центрирование блочного элемента с заданными параметрами по горизонтали и вертикали (2) 
-  - Центрирование элемента с неизвестными параметрами по горизонтали и вертикали (1)
-  - Центрирование элемента с неизвестными параметрами по горизонтали и вертикали (2)
-  - Полезные ссылки по центрированию элементов
-  - Использование псевдоэлементов :after, :before
-  - Полезные ссылки по использованию псевдоэлементов
-  - Обрезка текста с многоточием
-  - Прикрепление footer к низу страницы
-  - Sliding Doors техника vs CSS3 для кнопок
+[Slides 1](http://anastasia-tayanovskaya.github.io/css-recipes/)
+ 
+[Slides 2](https://github.com/Anastasia-Tayanovskaya/css-recipes)
+
+***
+
+
+![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/video.png)   **Video**
+
+[Video 1](https://www.youtube.com/watch?v=DbutriT37aI)
+
+[Video 2](https://youtu.be/8IdwZzGeErQ?t=3)
+
+***
+
+![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/book.png)   **Content**
+* Horizontal centering of the block element
+* Horizontal centering of texts
+* Vertical align of inline-block elements (2 techniques)
+* Centering of a block element with horizontal and vertical given parameters (2 techniques)
+* Centering of an element with unknown horizontal and vertical parameters 
+* How to use pseudo elements :after and :before
+* How to center an element – useful links
+* How to trim texts with an ellipsis
+* How to stick a footer to the bottom of the page
+* Sliding door technique
+* How to use CSS3 for buttons
+* How to create different page layouts
+
+
+***
+![Feedback](https://github.com/rolling-scopes/course-curriculum/blob/master/img/feedback.png)
+**Feedback**
+
+[Click here to leave feedback](https://docs.google.com/forms/d/1F4NeS0oBq-CY805aqiPVp6CIrl4_nIYJ7Z_vUcMOFrQ/viewform)
