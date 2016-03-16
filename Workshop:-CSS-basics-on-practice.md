@@ -1,23 +1,41 @@
-###Trainers: Aliaksandr Kuzniatsou, Katsiaryna Utlik
+###Trainers: Aliaksandr Kuzniatsou & Katsiaryna Utlik
 
-###Video
-https://www.youtube.com/watch?v=-szAvgQP9co
+***
+![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/layout.png) **Layout**
 
-###Content
-__Воркшоп "Подход к верстке на примере макета"__
-	
-Макет для воркшопа: https://www.dropbox.com/sh/zbm0eh5dk3rphyw/AABdfAzhSASRmtdpxASVhyHVa?dl=0
+[LAYOUT FOR THIS WORKSHOP](https://www.dropbox.com/sh/zbm0eh5dk3rphyw/AABdfAzhSASRmtdpxASVhyHVa?dl=0) 
 
-- Что такое стиль кода. Разбор css style guide
-- Pixel perfect верстка и вспомогающие расширения для браузера
-- Создание структуры каталогов для верстки
-- Разделение макета на структурные блоки (header, content, footer)
-- Верстка компонентов с использованием inline-block и float
-- Отступы элементов (margin, padding)
-- Колонки одинаковой высоты. Способы верстки псевдо-колонки
-- Прибитый футер
+***
 
-###Links:
-Css Style Guide: 
-https://docs.google.com/document/d/1VuK4txlVwjtm7Y1JuonEfGr5eUpWOIU_KyLoMVM1Mj4/edit?usp=sharing
+![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/book.png)  **Content**
 
+- CSS Style Guide
+- Pixel Perfect and browser plugins
+- How to create catalogs for the page
+- Structural blocks of the page (header, content, footer)
+- How to create page using inline-blocks and floats
+- Difference between margins and paddings
+- Columns of the same height
+- How to create pseudo-columns
+- Sticky Footer
+
+***
+
+
+![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/links2.png)  **Links**
+
+[CSS Style Guide](https://docs.google.com/document/d/1VuK4txlVwjtm7Y1JuonEfGr5eUpWOIU_KyLoMVM1Mj4/edit?usp=sharing) 
+
+
+***
+
+![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/video.png)   **Video**
+
+[Video ](https://www.youtube.com/watch?v=-szAvgQP9co) 
+
+
+***
+![Feedback](https://github.com/rolling-scopes/course-curriculum/blob/master/img/feedback.png)
+**Feedback**
+
+[Click here to leave feedback](https://docs.google.com/forms/d/1F4NeS0oBq-CY805aqiPVp6CIrl4_nIYJ7Z_vUcMOFrQ/viewform)
