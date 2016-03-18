@@ -22,9 +22,9 @@
 ***
 
 
-![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/links2.png)  **Links**
+![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/slides.png)  **Slides**
 
-[CSS Style Guide](https://docs.google.com/document/d/1VuK4txlVwjtm7Y1JuonEfGr5eUpWOIU_KyLoMVM1Mj4/edit?usp=sharing) 
+[Slides](http://slides.com/iupac/workshop) 
 
 
 ***
