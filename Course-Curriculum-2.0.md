@@ -43,9 +43,8 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
   - Websocket API
   - Typed arrays
   - Сompetition [Slides](http://rolling-scopes.github.io/slides/school/ws/WebSockets.pptx)
-30. Chrome Dev Tools. ESLint. Yeoman.
-  - 
-  - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
+30. ESLint. Yeoman.
+   - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
   - [Yeoman and WebApp Generator in depth](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Yeoman-and-WebApp-Generator-in-depth)
 31. [Lecture: Testing JavaScript Applications](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Testing-Javascript-Applications) - [Slides](http://rootthelure.github.io/js-testing-talk/#/)
 32. [Workshop: Testing JavaScript Applications.](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-Testing-Javascript-Applications) :computer: 
