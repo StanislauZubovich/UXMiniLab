@@ -22,7 +22,7 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 14. [Functions. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
 15. [Inheritance in JavaScript.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Inheritance-in-JavaScript)
 16. [Data Structures. Workshop.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Data-Structures.-Workshop.)
-17. [Use Strict. Object.*](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Use-strict.-Object.*)
+17. [Use Strict. Object.*. ES6 Classes](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Use-strict.-Object.*-ES6-Classes)
 18. [Array.prototype.*](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Array.prototype.*)
 19. [DOM](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-DOM.-Events.)
 20. [DOM Events](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-DOM.-Events.)
