@@ -34,6 +34,7 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 24. [Project structure and asset management. Workshop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Project-structure-and-asset-management)
 27. [HTTP](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTTP)
 29. [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises) 
+30. [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
 26. Dependency managment
   - [ES6 Modules](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6-Modules)
   - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
@@ -43,7 +44,7 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
   - Typed arrays
   - Сompetition [Slides](http://rolling-scopes.github.io/slides/school/ws/WebSockets.pptx)
 30. Chrome Dev Tools. ESLint. Yeoman.
-  - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
+  - 
   - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
   - [Yeoman and WebApp Generator in depth](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Yeoman-and-WebApp-Generator-in-depth)
 31. [Lecture: Testing JavaScript Applications](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Testing-Javascript-Applications) - [Slides](http://rootthelure.github.io/js-testing-talk/#/)
