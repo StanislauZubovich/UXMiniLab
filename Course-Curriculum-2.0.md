@@ -32,17 +32,16 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 22. [jQuery. Part I](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 23. [jQuery. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 24. [Project structure and asset management. Workshop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Project-structure-and-asset-management)
-25. Critical rendering path
+27. [HTTP](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTTP)
+29. [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises) 
 26. Dependency managment
   - [ES6 Modules](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6-Modules)
   - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
-27. [HTTP](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTTP)
 28. Разбор домашек. WebSocket Challenge.
   - What is websocket?
   - Websocket API
   - Typed arrays
   - Сompetition [Slides](http://rolling-scopes.github.io/slides/school/ws/WebSockets.pptx)
-29. [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises) 
 30. Chrome Dev Tools. ESLint. Yeoman.
   - [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
   - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
