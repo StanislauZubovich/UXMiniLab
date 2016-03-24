@@ -1,9 +1,7 @@
 ###Trainer: Stanislau Zubovich
 
 ###Slides
-http://stanislauzubovich.github.io/index.html  
-или тут:  
-https://github.com/StanislauZubovich/FrontEndLab_Fall_2015
+http://stanislauzubovich.github.io/RWD/
 
 ###Content
 
