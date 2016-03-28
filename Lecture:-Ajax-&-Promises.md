@@ -1,4 +1,4 @@
-###Trainer: Andrei Yanovich
+###Trainer: Andrei Yanovich, Andrey Lukashenko
 
 ###Slides
 - http://andrei-yanovich.github.io/ajax-talk/#/
