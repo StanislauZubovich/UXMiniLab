@@ -63,11 +63,6 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 - X. [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works) 
 - X. [ES6](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6)  
 
-```
-TODO
-* Implementation of common JavaScript patterns (Mixin, Bind, Extend, Proxy, Throttling, Debounce)
-* Application Architecture
-```
 
 ###Video Playlist
 - https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
