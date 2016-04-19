@@ -31,35 +31,34 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
   - [Animations](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Animations)
 22. [jQuery. Part I](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 23. [jQuery. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
-24. [Project structure and asset management. Workshop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Project-structure-and-asset-management)
+24. [Modules in JS](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Modules-in-JS)
 27. [HTTP](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTTP)
 29. [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises) 
 30. [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
-26. Dependency managment
-  - [ES6 Modules](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6-Modules)
-  - [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
-28. Разбор домашек. WebSocket Challenge.
+31. [Project Structure. Assets management](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Project-structure.-Assets-management)
+32. [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
+33. Разбор домашек. WebSocket Challenge.
   - What is websocket?
   - Websocket API
   - Typed arrays
   - Сompetition [Slides](http://rolling-scopes.github.io/slides/school/ws/WebSockets.pptx)
-30. ESLint. Yeoman.
+34. ESLint. Yeoman.
    - [ESLint, JSCS, Style guide](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ESLint-&-JSCS-&-Style-guilde)
   - [Yeoman and WebApp Generator in depth](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Yeoman-and-WebApp-Generator-in-depth)
-31. [Lecture: Testing JavaScript Applications](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Testing-Javascript-Applications) - [Slides](http://rootthelure.github.io/js-testing-talk/#/)
-32. [Workshop: Testing JavaScript Applications.](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-Testing-Javascript-Applications) :computer: 
-33. [Iterator implementation.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Iterator-implementation.)
-34. [AngularJS Basics](https://github.com/rolling-scopes/front-end-course/wiki/Angular-JS-Basics) - [All Slides](http://rolling-scopes.github.io/slides/school/angular_baranoshnik.zip)
+35. [Lecture: Testing JavaScript Applications](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Testing-Javascript-Applications) - [Slides](http://rootthelure.github.io/js-testing-talk/#/)
+36. [Workshop: Testing JavaScript Applications.](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-Testing-Javascript-Applications) :computer: 
+37. [Iterator implementation.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Iterator-implementation.)
+38. [AngularJS Basics](https://github.com/rolling-scopes/front-end-course/wiki/Angular-JS-Basics) - [All Slides](http://rolling-scopes.github.io/slides/school/angular_baranoshnik.zip)
   - Online course: https://www.codeschool.com/courses/shaping-up-with-angular-js
-35. [AngularJS. IoC](https://github.com/rolling-scopes/front-end-course/wiki/Angular-JS.-part2)
-36. [AngularJS. Directives](https://github.com/rolling-scopes/front-end-course/wiki/Angular-JS.-part-3.-Directives)
-37. AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource)
-38. AngularJS. Tests 
-39. Brush-up
-40. Node.js
-41. Node.js
-42. [Software-Development-Process](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Software-Development-Process)
-43. [Design Patterns](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Design-Patterns)
+39. [AngularJS. IoC](https://github.com/rolling-scopes/front-end-course/wiki/Angular-JS.-part2)
+40. [AngularJS. Directives](https://github.com/rolling-scopes/front-end-course/wiki/Angular-JS.-part-3.-Directives)
+41. AngularJS. Routing. Promises. Other features (filters, decorators, $http, $resource)
+42. AngularJS. Tests 
+43. Brush-up
+44. Node.js
+45. Node.js
+46. [Software-Development-Process](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Software-Development-Process)
+47. [Design Patterns](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Design-Patterns)
 
 - X. [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works) 
 - X. [ES6](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6)  
