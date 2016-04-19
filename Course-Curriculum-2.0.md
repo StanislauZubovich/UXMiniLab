@@ -60,8 +60,7 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 46. [Software-Development-Process](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Software-Development-Process)
 47. [Design Patterns](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Design-Patterns)
 
-- X. [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works) 
-- X. [ES6](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6)  
+- X. [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)  
 
 
 ###Video Playlist
