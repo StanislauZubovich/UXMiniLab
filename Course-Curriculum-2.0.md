@@ -35,7 +35,7 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 27. [HTTP](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTTP)
 29. [Ajax & Promises](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Ajax-&-Promises) 
 30. [Chrome Dev Tools](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Chrome-Dev-Tools)
-31. [ES6. Project Structure. Assets management](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Project-structure.-Assets-management)
+31. [ES6. Project Structure. Assets management](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6.-Project-structure.-Assets-management)
 32. [Webpack](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Webpack)
 33. Разбор домашек. WebSocket Challenge.
   - What is websocket?
