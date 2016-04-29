@@ -27,3 +27,6 @@ http://misko.hevery.com/2008/08/17/singletons-are-pathological-liars/
   - AMD
   - CommonJS
   - ES Harmony
+
+###Codewars
+- http://www.codewars.com/kata/undo-slash-redo
