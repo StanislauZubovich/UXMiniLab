@@ -1,9 +1,7 @@
 ### Trainer: Maksim Bartoshyk
  
-Dependency Injection
-https://www.youtube.com/watch?v=IKD2-MAkXyQ
-
-http://misko.hevery.com/2008/08/17/singletons-are-pathological-liars/
+####Slides: 
+http://slides.com/maxbartoshik/deck#/
 
 1. JavaScript Design Patterns
   - Constructor Pattern
@@ -30,3 +28,12 @@ http://misko.hevery.com/2008/08/17/singletons-are-pathological-liars/
 
 ###Codewars
 - http://www.codewars.com/kata/undo-slash-redo
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/
+
+Dependency Injection: 
+https://www.youtube.com/watch?v=IKD2-MAkXyQ
+
+
+
+http://misko.hevery.com/2008/08/17/singletons-are-pathological-liars/
