@@ -3,6 +3,7 @@
 ####Slides: 
 http://slides.com/maxbartoshik/deck#/
 
+###Content
 1. JavaScript Design Patterns
   - Constructor Pattern
   - Module Pattern
