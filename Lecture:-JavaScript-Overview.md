@@ -40,3 +40,13 @@
 
 ###Links
 [Хороший учебник по JS c заданиями - learn.javascript.ru](http://learn.javascript.ru/)
+
+###Codewars
+  - http://www.codewars.com/kata/opposite-number
+  - http://www.codewars.com/kata/basic-mathematical-operations
+  - http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
+  - http://www.codewars.com/kata/transportation-on-vacation
+  - http://www.codewars.com/kata/calculating-with-functions
+  - http://www.codewars.com/kata/get-the-middle-character
+  - http://www.codewars.com/kata/partition-on
+  - http://www.codewars.com/kata/word-count
