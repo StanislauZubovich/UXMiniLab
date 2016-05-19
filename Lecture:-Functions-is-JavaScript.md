@@ -36,7 +36,6 @@ __Part II__
 __Simple Functions:__
 - http://www.codewars.com/kata/calculating-with-functions
 - http://www.codewars.com/kata/partition-on
-- http://www.codewars.com/kata/the-fruit-juice
 
 __Closure and functions:__
 - http://www.codewars.com/kata/closures-and-scopes
