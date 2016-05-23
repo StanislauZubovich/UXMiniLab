@@ -37,6 +37,9 @@ __Simple Functions:__
 - http://www.codewars.com/kata/calculating-with-functions
 - http://www.codewars.com/kata/partition-on
 
+__Arrays:__
+- http://www.codewars.com/kata/prefill-an-array
+
 __Closure and functions:__
 - http://www.codewars.com/kata/closures-and-scopes
 - http://www.codewars.com/kata/a-function-within-a-function
@@ -44,6 +47,3 @@ __Closure and functions:__
 - http://www.codewars.com/kata/using-closures-to-share-class-state
 - http://www.codewars.com/kata/a-chain-adding-function
 - http://www.codewars.com/kata/function-cache
-
-__Arrays:__
-- http://www.codewars.com/kata/prefill-an-array
