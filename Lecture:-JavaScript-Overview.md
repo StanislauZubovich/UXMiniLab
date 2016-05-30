@@ -39,7 +39,8 @@
   - Eval
 
 ###Links
-[Хороший учебник по JS c заданиями - learn.javascript.ru](http://learn.javascript.ru/)
+- [Хороший учебник по JS c заданиями - learn.javascript.ru](http://learn.javascript.ru/)
+- [What the... JavaScript?](https://www.youtube.com/watch?v=2pL28CcEijU)
 
 ###Codewars
   - http://www.codewars.com/kata/opposite-number
