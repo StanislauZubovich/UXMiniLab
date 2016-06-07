@@ -42,7 +42,6 @@
 - [JS Core by Dmitry Soshnikov](http://dmitrysoshnikov.com/ecmascript/ru-javascript-the-core/)
 
 ###Practise
-- http://www.codewars.com/kata/js-prototypes-module-number-1-object-prototypes
 - http://www.codewars.com/kata/santaclausable-interface
 - http://www.codewars.com/kata/new-with-apply
 - http://www.codewars.com/kata/extract-nested-object-reference
