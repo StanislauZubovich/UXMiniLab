@@ -1,5 +1,8 @@
 ###Trainer: Andrey Lukashenko
 
+###Slides
+http://andreylukashenko.github.io/slides/webpack/#/
+
 ###Content
 - history
 - modules vs flat files (gulp vs webpack)
