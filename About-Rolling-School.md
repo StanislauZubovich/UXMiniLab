@@ -1,4 +1,4 @@
-##Что такое Rolling School? 
+##Что такое [Rolling School](https://school.rollingscopes.com/)? 
 
 Это __бесплатные__ курсы по JavaScript/Front-end с последующим трудоустройством в компанию [EPAM Systems](http://www.epam.by/) на должность Junior Software Engineer. 
 
@@ -15,7 +15,7 @@
 2. Базовые структуры данных и их организация - массив, список, стек, бинарное дерево, хэш таблица.
 3. Принципы объектно-ориентированного программирования.
 4. Уметь реализовать достаточно простой алгоритм на любом из следующих языков программирования: Java, C#, C++, Python, Ruby, JavaScript.
-5. _Английский язык на уровне Pre-Intermediate (A2)__
+5. __Английский язык на уровне Pre-Intermediate (A2)__
 
 Примеры заданий:  
 http://www.codewars.com/kata/search/java?q=&r%5B%5D=-7&tags=Algorithms&beta=false
