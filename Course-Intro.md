@@ -1,6 +1,6 @@
 ###Презентации:
 * http://dzmitry-varabei.github.io/front-end-course/lecture-0-course-intro/#/
-* http://dzmitry-varabei.github.io/online-education/#/
+* http://slides.com/maria_putyrskaya/rs-school-presentation#/
 
 ###Задания: 
 https://github.com/rolling-scopes-school/tasks
