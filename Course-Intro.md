@@ -3,7 +3,7 @@
 * http://dzmitry-varabei.github.io/online-education/#/
 
 ###Задания: 
-https://github.com/rolling-scopes-school/tasks/blob/2016-Q1/README.md
+https://github.com/rolling-scopes-school/tasks
 
 ###Вопросы задавать тут (групповой чат текущего набора студентов):
 https://gitter.im/rolling-scopes-school/padawans
