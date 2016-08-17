@@ -2,6 +2,9 @@
 * http://dzmitry-varabei.github.io/front-end-course/lecture-0-course-intro/#/
 * http://slides.com/maria_putyrskaya/rs-school-presentation#/
 
+###Видео запись вводного занятия
+https://www.youtube.com/playlist?list=PLe--kalBDwjgeyKiqErDuEOuB1dYQi15D
+
 ###Задания: 
 https://github.com/rolling-scopes-school/tasks
 
