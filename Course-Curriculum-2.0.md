@@ -70,3 +70,6 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 
 ###Tasks
 https://github.com/rolling-scopes-school/tasks/tree/master
+
+###Html coding styleguide
+http://html-academy.ru/codeguide/
