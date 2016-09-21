@@ -11,9 +11,9 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 7. [CSS Workshop: Layout](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-CSS-basics-on-practice)
 8. [Workshop: HTML Forms. Images](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-HTML-Forms.-Images)
 9. [Responsive Web Design. Flexbox](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Responsive-Web-Design)
-10. [Web Accessibility]
-11. [Preprocessors. SASS]
-12. [CSS frameworks]
+10. [Web Accessibility] (https://github.com/rolling-scopes/front-end-course/wiki/Web-Accessibility)
+11. [Preprocessors. SASS] (https://github.com/rolling-scopes/front-end-course/wiki/Preprocessors.-SASS)
+12. [CSS frameworks] (https://github.com/rolling-scopes/front-end-course/wiki/CSS-frameworks)
 13. [A11Y. CSS Guidelines. CSS Quickdraw](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-A11Y.-CSS-Guildelines.-CSS-Quickdraw)
 14. [User Experience Best Practices](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-User-Experience-Best-Practices)
 15. [CSS Q&A Session](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Q&A-Session.-Most-frequently-asked-interview-questions)
