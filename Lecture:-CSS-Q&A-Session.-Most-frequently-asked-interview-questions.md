@@ -1,4 +1,4 @@
-###Trainers: Мария Путырская
+###Trainers: Maria Putyrskaya
 
 ###Slides
 http://rolling-scopes.github.io/slides/school/uxd_basics_short.pptx
