@@ -1,4 +1,4 @@
-###Trainer: Дарья Сабинина и Сергей Шаляпин 
+###Trainer: Darya Sabinina & Siarhei Shaliapin 
 
 ###Slides
   - http://slides.com/olegpetrenko/deck#/
