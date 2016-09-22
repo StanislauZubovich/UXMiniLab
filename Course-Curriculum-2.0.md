@@ -8,7 +8,7 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 4. [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
 5. [Sublime Text. Web Typography](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Sublime-Text.-Web-typography)
 6. [CSS Recipes & Design Patterns](https://github.com/rolling-scopes/front-end-course/wiki/CSS-Recipes-&-Design-Patterns)
-7. [CSS Workshop: Layout](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-CSS-basics-on-practice)
+7. [CSS Workshop: Layout](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-Layout)
 8. [Workshop: HTML Forms. Images](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-HTML-Forms.-Images)
 9. [Responsive Web Design. Flexbox](https://github.com/rolling-scopes/front-end-course/wiki/Responsive-Web-Design.-Flexbox)
 10. [Web Accessibility] (https://github.com/rolling-scopes/front-end-course/wiki/Web-Accessibility)
