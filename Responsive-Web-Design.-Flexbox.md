@@ -1,4 +1,4 @@
-###Trainer: Stanislau Zubovich & Yauheni Krauchanka1
+###Trainer: Stanislau Zubovich
 
 ###Slides
 http://stanislauzubovich.github.io/RWD/
