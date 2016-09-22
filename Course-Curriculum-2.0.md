@@ -15,7 +15,6 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 11. [Preprocessors. SASS] (https://github.com/rolling-scopes/front-end-course/wiki/Preprocessors.-SASS)
 12. [CSS frameworks] (https://github.com/rolling-scopes/front-end-course/wiki/CSS-frameworks)
 14. [User Experience Best Practices. CSS Quickdraw](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-User-Experience-Best-Practices)
-15. [CSS Q&A Session](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Q&A-Session.-Most-frequently-asked-interview-questions)
 16. [JavaScript overview](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-JavaScript-Overview)
   - __Home task__ - https://www.codeschool.com/courses/discover-devtools
 17. Functions and Scope
@@ -23,6 +22,7 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
   - [Functions. Part I](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
 18. [Functions. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
 19. [Inheritance in JavaScript.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Inheritance-in-JavaScript)
+15. [CSS Q&A Session](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Q&A-Session.-Most-frequently-asked-interview-questions)
 20. [Data Structures. Workshop.](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-Data-Structures.-Doubly-Linked-List.)
 21. [Use Strict. Object.*. ES6 Classes](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Use-strict.-Object.*-ES6-Classes)
 22. [Array.prototype.*](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Array.prototype.*)
