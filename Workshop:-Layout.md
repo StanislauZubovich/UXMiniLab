@@ -1,4 +1,4 @@
-###Trainers: Aliaksandr Kuzniatsou & Katsiaryna Utlik
+###Trainers: Siarhei Zdabnou & Andrei Bibik
 
 ***
 ![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/layout.png) **Layout**
