@@ -1,4 +1,4 @@
-###Trainer: Nastassia Tayanouskaya
+###Trainer: Nastassia Tayanouskaya & Aliaksandr Palubinski
 
 ***
 
