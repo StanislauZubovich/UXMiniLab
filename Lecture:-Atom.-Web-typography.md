@@ -1,7 +1,7 @@
 ###Trainer: Alexander Gerasimov
 
 ###Content
-1. Sublime Text:
+1. Atom:
   - Exploring ST menus & shortcuts
   - Package Control & popular packages overview
   - Advanced Sublime Text techniques :)
