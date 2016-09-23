@@ -6,7 +6,7 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 2. [HTML & CSS Basics](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTML-&-CSS-Basics)
 3. [Position. Floats. Semantics. CSS3](https://github.com/rolling-scopes/front-end-course/wiki/Position.-Floats.-Semantics.-CSS3)
 4. [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
-5. [Sublime Text. Web Typography](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Sublime-Text.-Web-typography)
+5. [Atom. Web Typography](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Atom.-Web-typography)
 6. [CSS Recipes & Design Patterns](https://github.com/rolling-scopes/front-end-course/wiki/CSS-Recipes-&-Design-Patterns)
 7. [CSS Workshop: Layout](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-Layout)
 8. [Workshop: HTML Forms. Images](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-HTML-Forms.-Images)
