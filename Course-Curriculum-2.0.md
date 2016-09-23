@@ -11,11 +11,12 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 7. [CSS Workshop: Layout](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-Layout)
 8. [Workshop: HTML Forms. Images](https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-HTML-Forms.-Images)
 9. [Responsive Web Design. Flexbox](https://github.com/rolling-scopes/front-end-course/wiki/Responsive-Web-Design.-Flexbox)
-10. [Web Accessibility] (https://github.com/rolling-scopes/front-end-course/wiki/Web-Accessibility)
+10. [Web Accessibility] (https://github.com/rolling-scopes/front-end-course/wiki/Web-Accessibility) 
 11. [Preprocessors. SASS] (https://github.com/rolling-scopes/front-end-course/wiki/Preprocessors.-SASS)
 12. [CSS frameworks] (https://github.com/rolling-scopes/front-end-course/wiki/CSS-frameworks)
-14. [User Experience Best Practices. CSS Quickdraw](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-User-Experience-Best-Practices)
-16. [JavaScript overview](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-JavaScript-Overview)
+13. [User Experience Best Practices. CSS Quickdraw](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-User-Experience-Best-Practices)
+14. CSS Q&A Session 
+15. [JavaScript overview](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-JavaScript-Overview)
   - __Home task__ - https://www.codeschool.com/courses/discover-devtools
 17. Functions and Scope
   - [Scope](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Scope)
