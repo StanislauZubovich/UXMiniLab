@@ -8,6 +8,7 @@
 ***
 
 ![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/book.png)  **Content**
+
 1. Describe Techniques to create layout
 
 2. Few words about best practices
