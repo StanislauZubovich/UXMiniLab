@@ -9,16 +9,21 @@
 
 ![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/book.png)  **Content**
 1. Describe Techniques to create layout
-1. Few words about best practices
-1. Few words about usability
-1. Workshop
+
+2. Few words about best practices
+
+3. Few words about usability
+
+4. Workshop
 
 ***
 
 ![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/slides.png)  **Useful Links**
 
 https://www.codementor.io/css/tutorial/4-different-layout-techniques-create-single-page
+
 https://helpx.adobe.com/dreamweaver/how-to/work-with-html-layout.html
+
 http://positionly.com/blog/inbound-marketing/website-usability
 
 
