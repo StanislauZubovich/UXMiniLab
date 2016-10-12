@@ -3,36 +3,26 @@
 ***
 ![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/layout.png) **Layout**
 
-[LAYOUT FOR THIS WORKSHOP](https://www.dropbox.com/sh/zbm0eh5dk3rphyw/AABdfAzhSASRmtdpxASVhyHVa?dl=0) 
+[LAYOUT FOR THIS WORKSHOP]() 
 
 ***
 
 ![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/book.png)  **Content**
-
-- CSS Style Guide
-- Pixel Perfect and browser plugins
-- How to create catalogs for the page
-- Structural blocks of the page (header, content, footer)
-- How to create page using inline-blocks and floats
-- Difference between margins and paddings
-- Columns of the same height
-- How to create pseudo-columns
-- Sticky Footer
+1.	Describe Techniques to create layout
+2.	Few words about best practices
+3.	Few words about usability
+4.	Workshop
 
 ***
 
+![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/slides.png)  **Useful Links**
 
-![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/slides.png)  **Slides**
-
-[Slides](http://slides.com/iupac/workshop) 
+(https://www.codementor.io/css/tutorial/4-different-layout-techniques-create-single-page)
+(https://helpx.adobe.com/dreamweaver/how-to/work-with-html-layout.html)
+(http://positionly.com/blog/inbound-marketing/website-usability)
 
 
 ***
-
-![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/video.png)   **Video**
-
-[Video ](https://www.youtube.com/watch?v=-szAvgQP9co) 
-
 
 ***
 ![Feedback](https://github.com/rolling-scopes/course-curriculum/blob/master/img/feedback.png)
