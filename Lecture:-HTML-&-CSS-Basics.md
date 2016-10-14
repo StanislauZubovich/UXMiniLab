@@ -1,7 +1,6 @@
 ###Trainer: Darya Sabinina & Siarhei Shaliapin 
 
 ###Slides
-  - http://slides.com/olegpetrenko/deck#/
   - http://slides.com/ra_levis/html_css_basics
 
 ###Content
