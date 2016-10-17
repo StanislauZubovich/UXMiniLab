@@ -28,7 +28,6 @@ https://helpx.adobe.com/dreamweaver/how-to/work-with-html-layout.html
 http://positionly.com/blog/inbound-marketing/website-usability
 
 
-***
 
 ***
 ![Feedback](https://github.com/rolling-scopes/course-curriculum/blob/master/img/feedback.png)
