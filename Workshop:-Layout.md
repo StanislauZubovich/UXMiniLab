@@ -3,7 +3,7 @@
 ***
 ![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/layout.png) **Layout**
 
-[LAYOUT FOR THIS WORKSHOP]() 
+[LAYOUT FOR THIS WORKSHOP](https://www.dropbox.com/s/1hiv0oy1n3lmjqg/pti4ka.psd?dl=0) 
 
 ***
 
