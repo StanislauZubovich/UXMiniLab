@@ -4,7 +4,11 @@
 
 ![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/slides.png)  **Slides:**
 
-[Slides 1](http://anastasia-tayanovskaya.github.io/css-recipes/)                [Slides 2](https://github.com/Anastasia-Tayanovskaya/css-recipes)
+[Slides 1](http://anastasia-tayanovskaya.github.io/css-recipes/)
+
+[Slides 2](https://github.com/Anastasia-Tayanovskaya/css-recipes)
+
+[Design Patterns] (https://www.dropbox.com/sh/ybtr35o251t0e8h/AABmmAHd7AU-ivLzUzka04fZa?dl=0)
 
 ***
 
