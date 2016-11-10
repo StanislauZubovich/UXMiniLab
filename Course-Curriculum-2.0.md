@@ -20,6 +20,7 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 17. Functions and Scope
   - [Scope](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Scope)
   - [Functions. Part I](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
+18. [ES6: let, const and arrow function](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-ES6-let,-const-and-arrow-function)
 18. [Functions. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Functions-is-JavaScript)
 15. [CSS Flashback. Q&A Session. Hometasks feedback](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Q&A-Session.-Most-frequently-asked-interview-questions)
 19. [Inheritance in JavaScript.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Inheritance-in-JavaScript)
