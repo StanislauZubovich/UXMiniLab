@@ -7,4 +7,4 @@ __Workshop. Data Structures -  Binary search tree implementation.__
 - Применение знаний на практике для написания структуры данных Дерево бинарного поиска.
 
 ##Task
-[Doubly Linked List](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/binary-search-tree.md)
+[Binary search tree](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/binary-search-tree.md)
