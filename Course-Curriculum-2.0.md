@@ -32,6 +32,7 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 24. Event loop. Animations 
   - [Event Loop](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Event-Loop)
   - [Animations](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Animations)
+25. [FP Basics](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-FP-Basics)
 25. [jQuery. Part I](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 26. [jQuery. Part II](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-jQuery)
 27. [Modules in JS](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Modules-in-JS)
