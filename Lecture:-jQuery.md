@@ -1,9 +1,6 @@
 ###Trainers: Darya Sabinina, Sergey Shaliapin
 
-###Links
-- http://slides.com/ra_levis/jquery-tutorial#/
-
-###Content
+##Content
 ### Slides
 [jQuery Tutorial](http://slides.com/ra_levis/jquery-tutorial#/)
 
