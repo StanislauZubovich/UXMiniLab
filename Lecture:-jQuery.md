@@ -3,9 +3,6 @@
 ###Links
 - http://slides.com/ra_levis/jquery-tutorial#/
 
-- Archive
-  - http://andrei-yanovich.github.io/jquery-talk/
-
 ###Content
 ### Slides
 [jQuery Tutorial](http://slides.com/ra_levis/jquery-tutorial#/)
