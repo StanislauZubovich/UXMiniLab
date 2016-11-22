@@ -1,10 +1,10 @@
 ###Trainers: Darya Sabinina, Sergey Shaliapin
 
 ###Links
-- http://andrei-yanovich.github.io/jquery-talk/
-- http://slides.com/siarhei/deck-2-3#/
-- https://github.com/andrei-yanovich/jquery-talk
-- [Documentation](https://api.jquery.com/)
+- http://slides.com/ra_levis/jquery-tutorial#/
+
+- Archive
+  - http://andrei-yanovich.github.io/jquery-talk/
 
 ###Content
 ### Slides
