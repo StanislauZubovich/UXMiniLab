@@ -34,12 +34,12 @@ var iterator = new Iterator(array, config);
 iterator.current() // --> [0, 1, 2]
 iterator.forward() // --> [1, 2, 3]
 iterator.jumpTo(5) // --> undefined
-iterator.current() // --> [4, 5, 6]
-iterator.backward()// --> [3, 4, 5]
+iterator.current() // --> [5, 6, 7]
+iterator.backward()// --> [4, 5, 6]
 
 iterator.jumpTo(8) // --> undefined
-iterator.current() // --> [7, 8, 9]
-iterator.forward() // --> [8, 9, 0]
+iterator.current() // --> [8, 9, 0]
+iterator.forward() // --> [9, 0, 1]
 ```
 #####**Example 2:**
 ```javascript
