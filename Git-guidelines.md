@@ -3,7 +3,7 @@ In general, the preferred Git workflow is:
 
 1. Create a branch from `master`, check it out, do your work.  
 Please, use required branch name from the task. If task name consist of two words, use `-` for separating. For example:  
-~~taskName~~, `task-name`
+~~taskName~~, ~~task_name~~, `task-name`
 
 2. Commit changes. Required commit name is `TASK_NAME[/TYPE]: message`.  
 
