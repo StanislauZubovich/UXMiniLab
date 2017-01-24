@@ -17,16 +17,16 @@ _After that optionally push your branch up to the remote repository_
 
 
 
-##GitHub Pull Request (PR) guidelines
+## GitHub Pull Request (PR) guidelines
 
 1. PR name should contain **the task name** and probably additional info.
-2. Changes **shall not contain commented code, unnecessary files, changes from another branches and generated files** like *.bundle.js. Please review yours changes before contributing. Editorconfig, .gitignore and etc can be included.
+2. Changes **must not contain commented code, unnecessary files, changes from another branches and generated files** like *.bundle.js. Please review your changes before contributing. .editorconfig, .gitignore, etc. can be included.
 3. Comments in the PR are good practice.
 4. [How to write the perfect Pull Request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 
 
 
-##Git cheatsheet  
+## Git cheatsheet  
 Git allows a developer to copy a remote subversion repository to a local instance on their workstation, do all their work and commits in that local repository, then push the state of that repository back to a central facility (**github**).  
 
 | Command |Meaning|  
