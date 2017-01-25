@@ -11,6 +11,9 @@ https://docs.google.com/document/d/1LdruvgRWuLEkCald2lrNlgIdDCzImYa3fe6IxVblBnI/
 ###Видеозапись прошлого вводного занятия (2016-Q3)
 https://www.youtube.com/playlist?list=PLe--kalBDwjgeyKiqErDuEOuB1dYQi15D
 
+###Видеозапись этого занятия будет тут
+???
+
 ###Задания: 
 https://github.com/rolling-scopes-school/tasks
 
