@@ -2,7 +2,7 @@
 * http://dzmitry-varabei.github.io/front-end-course/lecture-0-course-intro/#/
 * http://slides.com/maria_putyrskaya/rs-school-presentation#/
 
-###Видеозапись вводного занятия
+###Видеозапись прошлого вводного занятия (2016-Q3)
 https://www.youtube.com/playlist?list=PLe--kalBDwjgeyKiqErDuEOuB1dYQi15D
 
 ###Задания: 
