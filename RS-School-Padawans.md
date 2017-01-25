@@ -8,4 +8,4 @@ RS School Padawans is an entry point to Rolling Scopes School. This is a service
 4. Click "Submit task" button
 
 # Connect repo with task
-![assign-repo-to-task](https://school.rollingscopes.com/padawan/guide/guide-repo-assign.gif)
+![assign-repo-to-tasks](https://school.rollingscopes.com/padawan/guide/guide-repo-assign.gif)
