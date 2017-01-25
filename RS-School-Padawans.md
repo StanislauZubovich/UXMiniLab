@@ -5,7 +5,7 @@ RS School Padawans is an entry point to Rolling Scopes School. This is a service
 1. [Create GitHub account](https://github.com/join)
 2. [Join Padawans](https://school.rollingscopes.com/padawan/login)
 3. Connect repo with task
-4. Click "Submit task" button
+4. Click "Submit tasks" button
 
 # Connect repo with task
-![assign-repo-to-tasks](https://school.rollingscopes.com/padawan/guide/guide-repo-assign.gif)
+![assign-repo-to-task](https://school.rollingscopes.com/padawan/guide/guide-repo-assign.gif)
