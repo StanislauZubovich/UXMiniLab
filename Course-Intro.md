@@ -2,6 +2,12 @@
 * http://dzmitry-varabei.github.io/front-end-course/lecture-0-course-intro/#/
 * http://slides.com/maria_putyrskaya/rs-school-presentation#/
 
+###Расписание занятий:
+https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=0
+
+###Требования к студентам, кураторам, тренерам
+https://docs.google.com/document/d/1LdruvgRWuLEkCald2lrNlgIdDCzImYa3fe6IxVblBnI/edit
+
 ###Видеозапись прошлого вводного занятия (2016-Q3)
 https://www.youtube.com/playlist?list=PLe--kalBDwjgeyKiqErDuEOuB1dYQi15D
 
