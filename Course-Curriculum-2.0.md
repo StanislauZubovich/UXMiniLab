@@ -1,6 +1,10 @@
 ###Course Intro
 https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 
+###Video
+* [RS School 2017Q1 Playlist](https://www.youtube.com/watch?v=3sE1OxDx00o&list=PLe--kalBDwjgwrEDcOKXba_v6ciHoq_8H)
+* [RS School 2016Q3 Playlist](https://www.youtube.com/watch?list=PLe--kalBDwjiXq7_8kUgcMmZJpix9ITkK&v=axJfr0sI88w)
+
 ###Lectures:
 1. [Course Overview. Git basics](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Course-Overview.-Git-basics.)
 2. [HTML & CSS Basics](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTML-&-CSS-Basics)
@@ -64,16 +68,7 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 44. Node.js
 45. Node.js
 
-
 - X. [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)  
-
-
-###Video Playlist
-- https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu
-- https://www.youtube.com/playlist?list=PLe--kalBDwjgwrEDcOKXba_v6ciHoq_8H
-
-###Tasks
-https://github.com/rolling-scopes-school/tasks/tree/master
 
 ###Html coding styleguide
 http://html-academy.ru/codeguide/
