@@ -1,4 +1,4 @@
-###Trainer: Dzmitry Varabei
+###Trainer: Dzmitry Varabei, Kiril Knysh
 
 ###Slides
 - [First Part](http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/index-objects.html#/)
