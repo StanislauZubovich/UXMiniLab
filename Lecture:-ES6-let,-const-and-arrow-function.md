@@ -1,7 +1,7 @@
-###Trainer: Dzmitry Varabei
+###Trainer: Uladzimir Halushka
 
 ###Slides
-http://dzmitry-varabei.github.io/front-end-course/lecture-5-func/let-and-const.html
+http://slides.com/uladzimirhalushka/deck-2#/
 
 ###Content
 - ES6 and ES2015
