@@ -1,8 +1,7 @@
-###Trainers: Dzmitry Varabei, Andrei Vouchanka  
+###Trainers: Uladzimir Halushka
 
 ###Slides
-- http://dzmitry-varabei.github.io/front-end-course/git-story/#/
-- TBD
+http://slides.com/uladzimirhalushka/deck-1
 
 ###Useful links
 http://alistapart.com/article/the-art-of-the-commit
