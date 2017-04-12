@@ -1,6 +1,6 @@
-###Trainer: Alexander Gerasimov
+### Trainer: Alexander Gerasimov
 
-###Content
+### Content
 1. Atom:
   - Exploring ST menus & shortcuts
   - Package Control & popular packages overview
@@ -13,7 +13,7 @@
   - Kerning
   - OpenType font features and font-feature-settings property
 
-###Links:
+### Links:
 [12 Most-Wanted Sublime Text Tips And Tricks](http://www.hongkiat.com/blog/sublime-text-tips/)
 
 > Follow Up:
