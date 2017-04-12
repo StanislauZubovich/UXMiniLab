@@ -1,10 +1,10 @@
-###Trainer: Andrei Yanovich, Andrey Lukashenko
+### Trainer: Andrei Yanovich, Andrey Lukashenko
 
-###Slides
+### Slides
 - http://andrei-yanovich.github.io/ajax-talk/#/
 - http://andrei-yanovich.github.io/promise-talk/#/
 
-###Content
+### Content
 * Ajax
      * WTF is ajax (sync vs async web app model)
      * History
