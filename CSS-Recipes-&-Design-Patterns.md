@@ -8,7 +8,7 @@
 
 [Slides 2](https://github.com/Anastasia-Tayanovskaya/css-recipes)
 
-[Design Patterns] (https://www.dropbox.com/sh/ybtr35o251t0e8h/AABmmAHd7AU-ivLzUzka04fZa?dl=0)
+[Design Patterns](https://www.dropbox.com/sh/ybtr35o251t0e8h/AABmmAHd7AU-ivLzUzka04fZa?dl=0)
 
 ***
 
