@@ -1,9 +1,9 @@
 Trainer: Alexander Gerasimov
 
-###Links:
+### Links:
 https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype
 
-###Content
+### Content
 1. Arrays as a data structure
 2. Arrays performance
 3. Creating arrays and array literals
