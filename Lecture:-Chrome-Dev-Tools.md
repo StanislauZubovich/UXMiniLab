@@ -1,6 +1,6 @@
-###Trainer: Kirill Kukhovets
+### Trainer: Kirill Kukhovets
 
-###Content
+### Content
 - Remote debugging
 - useful console commands
 - network
