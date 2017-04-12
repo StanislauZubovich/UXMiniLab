@@ -1,11 +1,11 @@
-###Course Intro
+### Course Intro
 https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 
-###Video
+### Video
 * [RS School 2017Q1 Playlist](https://www.youtube.com/watch?v=3sE1OxDx00o&list=PLe--kalBDwjgwrEDcOKXba_v6ciHoq_8H)
 * [RS School 2016Q3 Playlist](https://www.youtube.com/watch?list=PLe--kalBDwjiXq7_8kUgcMmZJpix9ITkK&v=axJfr0sI88w)
 
-###Lectures:
+### Lectures:
 1. [Course Overview. Git basics](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Course-Overview.-Git-basics.)
 2. [HTML & CSS Basics](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTML-&-CSS-Basics)
 3. [Position. Floats. Semantics. CSS3](https://github.com/rolling-scopes/front-end-course/wiki/Position.-Floats.-Semantics.-CSS3)
@@ -70,5 +70,5 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 
 - X. [How browser works](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-How-browser-works)  
 
-###Html coding styleguide
+### Html coding styleguide
 http://html-academy.ru/codeguide/
