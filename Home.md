@@ -10,3 +10,4 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Curriculum-2.0
 6. [Требования к верстке](http://habrahabr.ru/company/htmlacademy/blog/254171/)
 7. [Требования к коммитам и PR](https://github.com/rolling-scopes/front-end-course/wiki/Git-guidelines)
 8. [RS School Padawans](https://github.com/rolling-scopes/front-end-course/wiki/RS-School-Padawans)
+9. [Stage #4 FAQ (Практика, майки и тд)](https://github.com/rolling-scopes/front-end-course/wiki/Stage-%234-FAQ)
