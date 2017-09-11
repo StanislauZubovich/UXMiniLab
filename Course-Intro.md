@@ -1,6 +1,5 @@
-### Презентации:
+### Презентация:
 * http://dzmitry-varabei.github.io/front-end-course/lecture-0-course-intro/#/
-* http://dzmitry-varabei.github.io/front-end-course/lecture-0-course-intro/rsschool-2017Q1.pdf
 
 ### Расписание занятий:
 https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1ymelvE/edit#gid=0
