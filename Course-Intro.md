@@ -7,11 +7,8 @@ https://docs.google.com/spreadsheets/d/1oM2O8DtjC0HodB3j7hcIResaWBw8P18tXkOl1yme
 ### Требования к студентам, кураторам, тренерам
 https://docs.google.com/document/d/1LdruvgRWuLEkCald2lrNlgIdDCzImYa3fe6IxVblBnI/edit
 
-### Видеозапись прошлого вводного занятия (2016-Q3)
-https://www.youtube.com/playlist?list=PLe--kalBDwjgeyKiqErDuEOuB1dYQi15D
-
 ### Видеозапись этого занятия
-https://www.youtube.com/watch?v=3sE1OxDx00o
+https://www.youtube.com/watch?v=ch5vXi45ttg
 
 ### Задания: 
 https://github.com/rolling-scopes-school/tasks
