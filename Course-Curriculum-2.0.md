@@ -6,7 +6,7 @@ https://github.com/rolling-scopes/front-end-course/wiki/Course-Intro
 * [RS School 2016Q3 Playlist](https://www.youtube.com/watch?list=PLe--kalBDwjiXq7_8kUgcMmZJpix9ITkK&v=axJfr0sI88w)
 
 ### Lectures:
-1. [Course Overview. Git basics](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Course-Overview.-Git-basics.)
+1. Course Overview.
 2. [HTML & CSS Basics](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTML-&-CSS-Basics)
 3. [Position. Floats. Semantics. CSS3](https://github.com/rolling-scopes/front-end-course/wiki/Position.-Floats.-Semantics.-CSS3)
 4. [Git](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
