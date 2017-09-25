@@ -22,7 +22,7 @@ https://github.com/rolling-scopes-school/lectures/
 11. [Preprocessors. SASS](https://github.com/rolling-scopes/front-end-course/wiki/Preprocessors.-SASS)
 12. [CSS frameworks](https://github.com/rolling-scopes/front-end-course/wiki/CSS-frameworks)
 13. [User Experience Best Practices. CSS Quickdraw](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-User-Experience-Best-Practices)
-15. [JavaScript overview](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-JavaScript-Overview)
+15. JavaScript overview
   - __Home task__ - https://www.codeschool.com/courses/discover-devtools
 17. Functions and Scope
   - [Scope](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Scope)
