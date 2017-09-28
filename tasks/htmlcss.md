@@ -4,10 +4,10 @@
 ___
 Ссылка на макет:
 
-[Макет](https://github.com/StanislauZubovich/UXMiniLab/blob/2017-Q3/designs/html%26css/02_Creative%20One%20Page.psd)
+[Макет тут](https://github.com/StanislauZubovich/UXMiniLab/blob/2017-Q3/designs/html%26css/02_Creative%20One%20Page.psd)
 ___
 
 - Верстка в соответствии с макетом.
 - Применять html, html5.
 - Обратить особое внимание на семантику, теги, корректные атрибутамы, валидацию.
-- Макет должен проходить валидацию.
+- Верстка должена проходить валидацию.
