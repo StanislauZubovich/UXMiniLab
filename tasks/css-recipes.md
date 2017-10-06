@@ -4,7 +4,7 @@
 ___
 Ссылка на макет:
 
-[Макет тут](https://github.com/StanislauZubovich/UXMiniLab/blob/2017-Q3/designs/html%26css/02_Creative%20One%20Page.psd)
+[Макет тут](https://github.com/StanislauZubovich/UXMiniLab/blob/2017-Q3/designs/cssreciepes/orange-rabbit.psd)
 ___
 
 Требования:
