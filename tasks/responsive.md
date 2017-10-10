@@ -7,7 +7,7 @@ ___
 [Макет тут](https://github.com/StanislauZubovich/UXMiniLab/tree/2017-Q3/designs/responsive)
 ___
 
-- Pure HTML
+- Pure HTML (Никакого bootstrap!)
 - Семантика обязательна
 - Использовать SCSS
 - Собирать всю эту радость gulp'ом
